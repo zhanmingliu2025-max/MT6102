@@ -1,0 +1,7 @@
+类别,报告日期,船名,建造年,DWT,货量(t),货种,装港,卸港,运价,单位,租家,船东,出处
+Kamsarmax煤炭航次,2026-09-10,TBN,,80000吨位,80000,COAL,DBCT(澳洲Dalrymple Bay),Vizag(印度),25.60,$/Tonne,SAIL,,SIN Fixtures Register(Dry Fixtures>Spot>Panamax Bulk Spot) 2026-09-12提取
+Kamsarmax煤炭航次(补充),2026-09-09,TBN,,80000吨位,80000,COAL,Newcastle(澳洲),Hadong(韩国),23.21,$/Tonne,KEPCO,,SIN Fixtures Register(同上) 2026-09-12提取
+Suezmax原油航次(TD20型),2026-09-03,Sea Amethyst,2022,157146,130000,CRUDE,WAF(西非),MED(地中海),210,WS,SHELL,Pantheon Tankers,SIN Fixtures Register(Tanker Fixtures>Spot>Suezmax Voyage) 2026-09-12提取
+Suezmax原油航次(最新已披露),2026-09-10,Barcelona Spirit,2011,158482,130000,CRUDE,Brazil,Chile,388,WS,PETROBRAS,Teekay Tankers,SIN Fixtures Register(同上) 2026-09-12提取
+MR清洁油品航次,2026-09-10,Dee4 Juniper,2022,49999,37000,UNLEADED MOTOR SPIRIT,Ventspils(波罗的海),USG(美湾),105,WS,VITOL,H4 Shipping,SIN Fixtures Register(Tanker Fixtures>Spot>Clean Handysize Tanker Voyage;筛44k+dwt) 2026-09-12提取
+MR清洁油品航次(补充),2026-09-10,Pacific Cobalt,2020,49886,35000,GASOIL,Singapore,Balikpapan(印尼),1200000,USD(lump sum),SEARIVER,Eastern Pacific Shpg,SIN Fixtures Register(同上) 2026-09-12提取
