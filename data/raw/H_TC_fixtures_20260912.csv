@@ -1,0 +1,17 @@
+船型,报告日期,船名,DWT,建造年,租家,交船地,期限,租金($/day),船东,备注,出处
+MR,2026-08-17,PS Imabari,52838,2022,SUNCOR,-,1 Yr,30000,Shoei Kisen Kaisha,CLEAN,SIN Fixtures Register(Tanker Fixtures>Timecharter>Clean Handysize Tanker TC;筛45k+dwt) 2026-09-12提取
+MR,2026-08-17,Challenge Pollux,50068,2017,EXXONMOBIL,-,1 Yr,27000,NYK Line,CLEAN,SIN Fixtures Register(同上) 2026-09-12提取
+MR,2026-08-31,SM Falcon,50017,2017,CLEARLAKE,WMED,2 Yrs,25500,Korea Line,CLEAN;最近3笔中1yr仅2笔故补2yr,SIN Fixtures Register(同上) 2026-09-12提取
+MR,2026-08-31,Stena Imagination,49689,2016,ESSAR,UKCONT,2 Yrs,27750,Stena Bulk,CLEAN,SIN Fixtures Register(同上) 2026-09-12提取
+Ultramax,2026-08-26,W-Lion,63308,2014,NOVA MARINE,Port Qasim交,10-13 Months,19000,W Marine Inc,近1年期,SIN Fixtures Register(Dry Fixtures>Timecharter>Handymax Bulk Period;筛60k+dwt) 2026-09-12提取
+Ultramax,2026-08-19,Yuan Hai Qing Han,63776,2025,CHINALAND,Qinzhou交,8-10 Months,20750,JIC Leasing,,SIN Fixtures Register(同上) 2026-09-12提取
+Ultramax,2026-08-14,Gramba,61233,2021,CTM,Dalian交,10-13 Months,19000,Susesea Holdings,,SIN Fixtures Register(同上) 2026-09-12提取
+Suezmax,2026-08-17,Monte Urbasa,156400,2018,ST SHIPPING,SPORE交,1 Yr,74500,Ibaizabal Tankers,CRUDE,SIN Fixtures Register(Tanker Fixtures>Timecharter>Suezmax TC) 2026-09-12提取
+Suezmax,2026-03-09,Ithaki Warrior,159962,2017,TRAFIGURA,BALT交,10-14 Mths,86000,Polembros Shipping,CRUDE,SIN Fixtures Register(同上) 2026-09-12提取
+Suezmax,2026-03-09,Kapsali,158546,2011,MERCURIA,KOREA交,11-13 Mths,80000,Centrofin Management,CRUDE,SIN Fixtures Register(同上) 2026-09-12提取
+Aframax,2026-08-24,TP Spirit,114139,2016,MERCURIA,SPORE交,1 Yr,53250,Transpetrol Services,CRUDE,SIN Fixtures Register(Tanker Fixtures>Timecharter>Aframax TC) 2026-09-12提取
+Aframax,2026-08-31,Torm Genesis,119456,2011,AET,SPORE交,3 Yrs,40000,TORM A/S,CRUDE;最近3笔中含多期限,SIN Fixtures Register(同上) 2026-09-12提取
+Aframax,2026-08-24,Hafnia Despina,109990,2019,MERCURIA,WMED交,2 Yrs,50000,Hafnia Limited,CRUDE,SIN Fixtures Register(同上) 2026-09-12提取
+Kamsarmax,2026-09-07,Intensity,82000,2026,CNR,Yeosu交,12 Months,22000,Aegean Bulk Co. Inc.,,SIN Fixtures Register(Dry Fixtures>Timecharter>Panamax Bulk Period;筛80-88k dwt) 2026-09-12提取
+Kamsarmax,2026-09-03,XH Hope,84998,2022,CARGILL,Qinzhou交,10-12 Months,23000,Zhejiang Xiehai Shpg,,SIN Fixtures Register(同上) 2026-09-12提取
+Kamsarmax,2026-08-27,Lestari Kuala Lumpur,82074,2026,CNR,Maoming交,9-11 Months,21000,Lestari Maritime,,SIN Fixtures Register(同上) 2026-09-12提取

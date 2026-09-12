@@ -1,0 +1,19 @@
+船型,成交日期,船名,DWT,建造年份,建造船厂,建造国,币种,成交价(m),备注,卖方,买方,Eco/Scrubber,报告出处
+MR,2026-08-14,On Promise*,50000,2026,HD Hyundai (Medium),韩国,,,undisclosed; en bloc 8704.01(与On Prosper打包),Onex DMCC,Undisclosed interests,Eco-Electronic Engine Modern,SIN S&P Register(Sales>Vessel Type>MR/Handy Products Tanker 25-55K) 2026-09-12提取
+MR,2026-08-14,On Prosper*,50000,2026,HD Hyundai (Medium),韩国,,,undisclosed; en bloc 8704.02,Onex DMCC,Undisclosed interests,Eco-Electronic Engine Modern,SIN S&P Register(同上) 2026-09-12提取
+MR,2026-08-11,High Discovery,49999,2014,HD Hyundai Mipo,韩国,USD,15.30,PO declared,Japanese interests,Clients of d'Amico Intl Shpg,Eco-Electronic Engine Modern,SIN S&P Register(同上) 2026-09-12提取
+MR,2026-08-07,Atlantic Eagle,47128,2007,HD Hyundai Mipo,韩国,,,undisclosed,Cido Shipping,Undisclosed interests,,SIN S&P Register(同上) 2026-09-12提取
+Ultramax,2026-08-19,Amaryllis,63301,2013,Sinopacific Dayang,中国,USD,24.00,region,Livanos N.G.,Chinese interests,Eco-Electronic Engine,SIN S&P Register(Sales>Vessel Type>Handymax Bulker;筛选60k+dwt) 2026-09-12提取
+Ultramax,2026-08-01,Gramos,61171,2019,Nantong COSCO KHI,中国,USD,34.50,,Helikon Shpg. Ent.,Clients of Livanos N.G.,Eco-Electronic Engine Modern,SIN S&P Register(同上) 2026-09-12提取
+Ultramax,2026-07-20,Seacon Tokyo,66628,2023,Tsuneishi Zhoushan,中国,USD,41.60,,Seacon Shipping,Clients of OBE Ships,Eco-Electronic Engine Modern,SIN S&P Register(同上) 2026-09-12提取
+Suezmax,2026-08-27,Cape Benat,156719,2010,Jiangsu Rongsheng,中国,USD,62.50,,Pareto Maritime,Clients of Lila Global,Scrubber Fitted,SIN S&P Register(Sales>Vessel Type>Suezmax Crude Tanker 125-200K) 2026-09-12提取
+Suezmax,2026-08-27,Hedda Knutsen,154348,2024,COSCO HI (Zhoushan),中国,USD,113.00,TC incl.,Knutsen NYK,Clients of KNOT Offshore,Eco-Electronic Engine Modern,SIN S&P Register(同上) 2026-09-12提取
+Suezmax,2026-08-11,Bristol,157077,2024,HD Hyundai Samho,韩国,,,undisclosed; Ammonia/LNG Ready,Euronav,Undisclosed interests,Scrubber+Eco Modern,SIN S&P Register(同上) 2026-09-12提取
+Aframax,2026-05-01,Southern Reverence,108534,2018,Tsuneishi Zosen,日本,USD,75.00,region,Nissen Kaiun,Undisclosed interests,Scrubber+Eco Modern,SIN S&P Register(Sales>Vessel Type>Aframax Crude Tanker 85-125K) 2026-09-12提取
+Aframax,2026-04-24,Pusaka Borneo,108667,2018,Tsuneishi Zosen,日本,USD,75.00,excess,Pusaka Laut,Undisclosed interests,Scrubber+Eco Modern,SIN S&P Register(同上) 2026-09-12提取
+Aframax,2026-03-31,Penelop,115091,2006,Daewoo (DSME),韩国,,,undisclosed,Lundqvist Rederierna,Undisclosed interests,Eco-Electronic Engine,SIN S&P Register(同上) 2026-09-12提取
+Aframax,2026-03-05,Green Attitude,112532,2018,COSCO HI (Zhoushan),中国,USD,70.00,region,Aegean Shipping Mgmt,Clients of Minerva Marine,Scrubber+Eco Modern,SIN S&P Register(同上) 2026-09-12提取
+Kamsarmax,2026-08-14,BBG Wuzhou,81895,2016,Tsuneishi Zhoushan,中国,USD,29.00,excess/at auction,CDB Leasing,Undisclosed interests,Eco-Electronic Engine Modern,SIN S&P Register(Sales>Vessel Type>Panamax Bulker;筛选80-88k dwt) 2026-09-12提取
+Kamsarmax,2026-08-11,Presinge,81886,2015,Tsuneishi Zhoushan,中国,USD,29.25,,SwissMarine Pte Ltd,Indian interests,Eco-Electronic Engine Modern,SIN S&P Register(同上) 2026-09-12提取
+Kamsarmax,2026-08-10,Aquavita Aim,82192,2019,Oshima Shipbuilding,日本,USD,38.00,low,Olive Shpmngt,Undisclosed interests,Eco-Electronic Engine Modern,SIN S&P Register(同上) 2026-09-12提取
+Kamsarmax,2026-08-10,Medi Positano,81661,2015,Tsuneishi Zosen,日本,USD,32.00,region,d'Amico Dry Ireland,Greek interests,Scrubber+Eco Modern,SIN S&P Register(同上) 2026-09-12提取
