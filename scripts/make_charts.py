@@ -130,8 +130,9 @@ for col, c, lab in [(1, BLUE, "Crude tankers"), (2, ORANGE, "Product tankers"), 
     ax.plot(d6.loc[m, "Date"], d6.loc[m].iloc[:, col], color=c, lw=2, label=lab)
 ax.axvspan(pd.Timestamp("2026-06-01"), pd.Timestamp("2028-06-01"), color=GRID, alpha=0.5, zorder=0)
 ax.text(pd.Timestamp("2027-05-01"), ax.get_ylim()[1] * 0.93, "Forecast", fontsize=9, color=INK2, ha="center")
-ax.annotate("7.7%", xy=(pd.Timestamp("2028-01-01"), 7.717), xytext=(6, 0), textcoords="offset points",
+ax.annotate("7.7%", xy=(pd.Timestamp("2028-01-01"), 7.717), xytext=(-46, -6), textcoords="offset points",
             fontsize=10, fontweight="bold", color=BLUE)
+ax.set_ylim(top=8.6)
 ax.legend(frameon=False, loc="upper left", fontsize=9)
 ax.axhline(0, color=GRAY, lw=0.8)
 ax.set_title("Crude Tanker Fleet Growth Accelerates into 2028 — the delivery wave meets any ceasefire",
@@ -143,10 +144,13 @@ finish(fig, "04_fleet_growth.png", SRC + " [534497, 534499, 534495]. Extracted 1
 c1, a2, a5 = rd("C1"), rd("A2"), rd("A5")
 fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(11, 4.2))
 ax1.plot(c1["Date"], c1.iloc[:, 1], color=BLUE, lw=1.6)
-ax1.annotate("3,521\n(+41% in 3 months)", xy=(c1["Date"].iloc[-1], 3521), xytext=(-95, 10),
+ax1.xaxis.set_major_locator(mdates.YearLocator())
+ax1.xaxis.set_major_formatter(mdates.DateFormatter("%Y"))
+ax1.set_ylim(300, 4050)
+ax1.annotate("3,521 (+41% in 3 months)", xy=(c1["Date"].iloc[-1], 3521), xytext=(-178, 12),
              textcoords="offset points", fontsize=9, fontweight="bold", color=BLUE)
 ax1.set_title("Baltic Dry Index, daily", loc="left", fontweight="bold")
-style(ax1)
+style(ax1, "Index points")
 ax2.plot(a2["Date"], a2.iloc[:, 1], color=BLUE, lw=2, label="Ultramax 63.5k 5-yr-old")
 m5 = a5["Date"] >= "2019-01-01"
 ax2.plot(a5.loc[m5, "Date"], a5.loc[m5].iloc[:, 1], color=ORANGE, lw=2, label="Kamsarmax 82k 5-yr-old")
@@ -212,9 +216,9 @@ sub = l6.loc[m]
 fig, ax = plt.subplots(figsize=(9, 4.2))
 ax.plot(sub["Date"], sub.iloc[:, 3], color=BLUE, lw=2, label="Gulf of Aden — all deep sea cargo")
 ax.plot(sub["Date"], sub.iloc[:, 4], color=ORANGE, lw=2, label="Strait of Hormuz — crude tankers")
-ax.legend(frameon=False, loc="center left", fontsize=9)
-ax.annotate("2-7 transits/week\n(near-closure)", xy=(sub["Date"].iloc[-1], 4), xytext=(-105, 22),
-            textcoords="offset points", fontsize=9, fontweight="bold", color=ORANGE)
+ax.legend(frameon=False, loc="lower left", fontsize=9)
+ax.text(pd.Timestamp("2026-03-25"), 40, "2-7 transits/week\n(near-closure)",
+        fontsize=9, fontweight="bold", color=ORANGE)
 ax.set_title("Chokepoint Transits per Week — the disruption premium, quantified",
              loc="left", fontweight="bold", fontsize=12)
 style(ax, "Vessels per week")
@@ -230,8 +234,8 @@ ax.plot(sub["Date"], sub.iloc[:, 4] / 1e6, color=ORANGE, lw=2, label="Sanctioned
 ax.legend(frameon=False, loc="upper left", fontsize=9)
 ax.annotate("137m dwt", xy=(sub["Date"].iloc[-1], 137), xytext=(-58, 6), textcoords="offset points",
             fontsize=9, fontweight="bold", color=BLUE)
-ax.annotate("97m dwt = 20% of\ncrude tanker fleet", xy=(sub["Date"].iloc[-1], 97.3), xytext=(-118, -34),
-            textcoords="offset points", fontsize=9, fontweight="bold", color=ORANGE)
+ax.text(pd.Timestamp("2025-05-01"), 44, "97m dwt = 20% of\ncrude tanker fleet",
+        fontsize=9, fontweight="bold", color=ORANGE)
 ax.set_title("Sanctioned Fleet (million dwt) — effective supply withdrawn, and reversible",
              loc="left", fontweight="bold", fontsize=12)
 style(ax, "Million dwt")
