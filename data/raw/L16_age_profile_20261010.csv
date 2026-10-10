@@ -1,0 +1,5 @@
+板块,船队总艘数,船队总DWT(m),20年以上艘数(建造<=2006),20年以上DWT,20年以上占比(艘数),20年以上占比(DWT),15年以上艘数(建造<=2011),15年以上DWT,15年以上占比(艘数),15年以上占比(DWT),口径与出处
+Panamax/Kamsarmax Bulker(70-100k),3487,283.39,618,47229605,17.7%,16.7%,1252,99980753,35.9%,35.3%,SIN Fleet Register逐页统计(Built升序;manual-extract);总DWT取Panamax Bulkcarrier Fleet Development 2026-10值;2026-10-10提取
+MR/Handy Products Tanker(25-55k),2351,,568,24242700,24.2%,,1126,50083862,47.9%,,同法;该类目无完全匹配的总DWT序列故DWT占比未算(艘数口径为准)
+Aframax Crude Tanker(85-125k),696,76.91,223,24009931,32.0%,31.2%,438,47652511,62.9%,62.0%,同法;总DWT取Crude Aframax Fleet Development 534573
+LR2 Products Tanker(85-125k),572,63.52,59,6268962,10.3%,9.9%,187,20355035,32.7%,32.0%,同法;总DWT取Aframax Product Tanker Fleet Development 39633
