@@ -1,0 +1,147 @@
+[p1] Week 1 – The Business of  | Shipping | Prepared by Dr. Kelvin Pang | 13 August 2026
+[p2] Learning Objectives | 1. Understand the function of maritime transport.  | 2. Discuss the characteristics of maritime transport. | 3. Understand the role of maritime transport in supply  | chains. | 4. Describe the different stakeholders involve in the  | maritime eco-system.
+[p3] Learning Objectives | 5. Describe the maritime organisations (both regulatory  | and industry) involved in shipping at the international  | and national level.  | 6. Discuss the two main types of shipping services. | 7. Understand the ton-miles concept.  | 8. Understand the different maritime trading networks.
+[p4] 1. Function of Maritime Transport | LO1
+[p5] 1.1 Function of Maritime Transport | Adam Smith (1776) – shipping as a  | source of low-cost transport that  | could open up market: | …“as by means of water carriage a  | more extensive market is opened to  | every sort of industries… it is upon the  | sea-coast that industry of every kind  | naturally begins to subdivide and  | improve itself” …..
+[p6] 1.1 Function of Maritime Transport | • Maritime transport is the backbone for the  | development of international trade and a key engine  | driving globalization. | • Around ___% of global trade by volume and over ___%  | by value is carried by sea and handled by ports  | worldwide. | • Ships are sophisticated large valuable assets, costing  | over USD100 million to build.
+[p7] 1.1 Function of Maritime Transport
+[p8] 2. Characteristics of Maritime Transport  | LO2
+[p9] 2.1 Derived Demand | • Occurs when there is a demand for a good or factor of  | production resulting from demand for a primary,  | intermediate or finished good or service.  | • Demand for maritime transport service results from the  | demand for goods it transport.  | Consignor/Shipper | (Saudi Arabia) | Consignee/Receiver | (China)
+[p10] 2.2 High Levels of Internationalisation | • Maritime transport  | operations span across  | countries and/or regions | • Many shipping  | companies have local  | offices around the  | world.
+[p11] 2.3 Openness and Freedom | • Registered ships are granted freedom of navigation. | • Freedom of navigation (FON) is a principle of  | customary international law. |   | - ships flying flag of any sovereign states shall not  | suffer interference from other states (apart from the  | exceptions provided for in international law). | • This right codified as Article 87(1)a of the 1982 United  | Nations Convention on the Law of the Sea (UNCLOS).
+[p12] 2.4 Economies of Scale | • Maritime transport often associated with gigantism.  | • Economies of scale is the “cost advantage experienced  | by a firm when it increases its level of output”. | • In maritime transport context, output refers to the ship  | capacities or ship size (see next slide).
+[p13] 2.4.1 Ship Capacities
+[p14] 2.4.2 Container Ship Size
+[p15] 2.4.2 Ship Size | • ___ = Twenty-foot Equivalent Units  | • ___ = Forty-foot Equivalent Units
+[p16] What is the capital slot cost for the different new  | containerships sizes?  | 9,000 TEU =   | 13,500 TEU =  | 15,750 TEU =  | 23,000 TEU =  | 130.00 | 183.00 | 204.00 | 275.00 | 50.00 | 100.00 | 150.00 | 200.00 | 250.00 | 300.00 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | Containership Newbuilding Prices ($m) | Containership 8,500/9,500 TEU Newbuilding Prices $m | Containership 13,000/14,000 TEU Newbuilding Prices $m | Containership 15,000/16,500 TEU Newbuilding Prices $m | Containership 22,000/24,000 TEU Newbuilding Prices $m
+[p17] 2.4 Economies of Scale
+[p18] 2.5 Regulations
+[p19] 2.5 Regulations
+[p20] Review Questions | 1. What percentage of the world’s total trade value is  | carried by ship and handled by ports worldwide? | a. 55% | b. 60% | c. 65% | d. 70% | Answer:
+[p21] Review Questions | 2. Which of the following is NOT a characteristic of  | maritime transport? | a. Derived demand | b. Internationalisation | c. High transport cost | d. Economies of scale | Answer:
+[p22] Review Questions | 3. Which of the following is NOT a factor contributing  | to economies of scale in maritime transport? | a) Savings in capital costs | b) Savings in operating costs | c) Savings in bunker costs | d) Berth and draft limitations | Answer:
+[p23] 3. Role of Maritime Transport in  | Supply Chains | LO3
+[p24] 3. Role of Maritime Transport in Supply Chains  | What is a supply chain? | • All stages involved, directly or indirectly, in fulfilling a customer’s  | request. |   | - includes manufacturers, suppliers, transport providers,  | warehouses, retailers and customers.
+[p25] 3. Role of Maritime Transport in Supply Chains
+[p26] 3. Role of Maritime Transport in Supply Chains  | School of Civil and Environmental Engineering
+[p27] 3. Role of Maritime Transport in Supply Chains
+[p28] 
+[p29] 4. Stakeholders in Maritime Eco-System | LO4
+[p30] 
+[p31] 4.1 Shipowners | • An individual or company who, ______ and _______ a  | ship, to delivery cargo at a certain freight rate.
+[p32] 4.2 Shipbuilders | • Receives orders from shipowners to build/construct  | ships based on ships’ specifications.
+[p33] 
+[p34] 4.3 Ship Breakers (Demolition/Recycling) | • Receives orders from shipowners to __________  | _________ ships or ships who have reached the end of  | their life cycle.
+[p35] 4.4 Port Terminal Operators | • Operated by government (public) or private  | companies. | • Private companies purchases a contract with the local  | government to move cargo through a port at  | contracted minimum level of productivity. | • Measured in terms of how much cargo it moves in a  | given amount of time (e.g., how many containers  | moved in an hour).
+[p36] 4.4 Port Terminal Operators
+[p37] 
+[p38] 
+[p39] World’s largest cement  | terminal – Jurong Port | PSA Tuas Port
+[p40] 4.5 Charterers  | a. may be a party _______________ (e.g., 100,000 tons  | of coal) and employ a shipbroker to find a ship to  | deliver the cargo. | b. may be a party, _____________, who takes a vessel  | on charter (hire) for a specified period (e.g., 1/3/5/10  | years) from the shipowner and trades the ship to  | carry cargoes, hopefully at a profit, above the hire  | rate + other expenses.  | Image result for cargill logo
+[p41] 4.6 Shipbrokers | • Specialist _________________________ between  | shipowners and charterers. | • Sale & purchase (S&P) brokers handle buying and  | selling of existing vessels in secondary market or  | newbuildings.  | • Demolition brokers handle sale of vessels for  | scrapping.
+[p42] 4.7 Ship Managers | • Two main categories: | i. | Manages its own ships and offers the same service to  | other ship owners. | ii. | No ships of their own and solely providing ship  | management services to ship owners. | Related image
+[p43] 4.7.1 Ship Management Services | Crewing | Where to employ workers from? | Storing | Crew and Technical (deck and engine  | room). | Technical | Marine and engineering superintendent. | Insurance | Hull & Machinery and 3rd Party. | Operations | Runs the ship. Close links with other  | departments.
+[p44] 4.8 Marine Insurers | • A shipowner/cargo owner has to make the right  | decisions in choosing the correct combination of  | credible insurance cover at a reasonable cost. | • Marine insurers are specialized corporate entities,  | syndicates, or mutual associations that underwrite  | risks and provide financial protection for ships,  | cargoes, terminals and maritime liabilities.
+[p45] 4.8 Marine Insurers | • Key providers include:  |   | - Commercial insurance companies: Allianz  | Commercial and QBE Singapore that offers hull,  | machinery and cargo policies.  |   | - P&I Clubs (Mutual Insurers): Non-profit associations  | owned by shipowners that mutually insure third-party  | liabilities and operational risks (more in Week 2/3). |   | - Lloyd’s Syndicates: specialized underwriting groups  | operating within the Lloyds market framework to  | cover complex maritime and war risks.
+[p46] 4.8 Marine Insurers
+[p47] 4.9 Shipping Banks | • Provides shipowners with a range of financial products  | and lending solutions.  | • Services included: ship mortgages, sale and leaseback,  | initial public offerings (IPOs), green financing. | • Most banks have dedicated research teams to analyse  | risks and trends in the shipping market.
+[p48] 
+[p49] 4.10 Ship Agents | • “The party representing the ship’s owner and/or  | charterer (the Principal) in port…responsible for  | arranging the port, berth, all relevant port and  | husbandry services, tending to the requirements of the  | Master and crew, clearing the ship with the port and  | other authorities along with releasing or receiving  | cargo on behalf of the Principal.” | • Commonly referred to as ____ agents or _____ agents.
+[p50] 4.11 Classification Societies | Lloyds Register Logo.png | Bureau Veritas.svg
+[p51] 4.11 Classification Societies | • Makes unique contribution to  | maritime safety and regulation  | through technical support,  | compliance verification and R&D. | • Consists of __ member societies.  | • Covers more than 90% of world’s  | carrying tonnage.
+[p52] 4.11 Classification Societies | • Tasks include: | 1. Classification on behalf of shipowner – certify ships  | for compliance with their own class rules regarding  | type, construction, equipment, maintenance and  | surveys of ships.  | 2. Performance of statutory tasks on behalf of flag  | states – ensure compliance with IMO safety  | requirements and issue international ship safety  | certificates. | Lloyds Register Logo.png | Bureau Veritas.svg
+[p53] 4.12 Government/Port Authories | • Deciding on policies to promote the development and  | growth of a port. | • Responsible for ensuring that national and  | international regulations are adhered to in port and  | surrounding jurisdiction areas. |   | E.g., International Safety Management Code | MPA Logo.png
+[p54] 4.13 The Singapore Chamber of Maritime  | Arbitration | • A specialist arbitration institution which provides a neutral, cost- | effective and flexible framework for maritime and international  | trade arbitrations.
+[p55] Review Questions | 4. A ________ equips and exploits a ship to deliver  | cargoes at an agreed freight rate.  | a) Ship builder | b) Ship owner | c) Terminal operator | d) Ship broker | Answer:
+[p56] Review Questions | 5. Which of the following is NOT among the top three  | ship builders in the world? | a) China | b) Japan | c) South Korea | d) Philippines | Answer:
+[p57] Review Questions | 6. Which of the following is NOT among the top 3 ship  | breakers in the world? | a) India | b) Pakistan | c) Sri Lanka | d) Bangladesh | Answer:
+[p58] 5. Maritime Organisations  | (Regulatory and International) | LO5
+[p59] 5. Maritime Organisations | • Shipping is regulated and influenced by a number of  | international, governmental (national level) and  | private organisations.  | • Internationally, there never has been one single  | controlling organisation. | • Commercial and law reform agencies from the late 19th  | century have been instrumental in the coalescing of  | international opinion into treaties and conventions.
+[p60] 
+[p61] 5.1 Maritime Organisations (Regulatory) | • International Maritime Organisation (IMO) |  - the United Nations specialised agency with  | responsibility for the safety and security of shipping  | and prevention of marine pollution by ships.  |  - role is to create a level playing-field so that ship  | operators cannot address their financial issues by  | cutting corners and comprising on safety, security and  | environmental performance.  | Flag of the International Maritime Organization.svg
+[p62] 5.1 Maritime Organisations (Regulatory) | • International Maritime Organisation (IMO) |   | - established to adopt legislation.  |  - national governments are responsible for implementing it.  |   | - most important conventions: |   | (a) International Convention for the Safety of Life at Sea  | (SOLAS); |   | (b) International Convention for the Prevention of Pollution  | from Ships (MARPOL); |   | (c) International Convention on Standards of Training,  | Certification and Watchkeeping for Seafarers (STCW)
+[p63] 5.1 Maritime Organisations (Regulatory) | • UN Conference on Trade and  | Development (UNCTAD) |  - principal organ of the UN dealing with trade,  | investment and development issues.  |   | - primary objective is to formulate policies  | relating to all aspects of development  | include trade, aid, transport, finance and  | technology.  |   | - publishes “Review of Maritime Transport”,  | annually.
+[p64] 5.1 Maritime Organisations (Industry) | • International Chamber of Shipping (ICS) |  - world’s principal shipping organisation, representing  | around 80% of the world’s merchant tonnage through  | membership of national shipowners’ association. |  - concerns with all technical, legal, employment affairs  | and policy issues. |  - unique because it represents the global interests of  | all different trades in the industry. | International Chamber of Shipping
+[p65] 5.1 Maritime Organisations (Industry) | • Baltic and International Maritime Council (BIMCO) |  - world’s largest international shipping association with  | 2,300 members in 130 countries. |  - providing forum for exchange of information. |  - facilitate commercial operations by developing  | standard contracts and clauses. |  E.g. GENCON, GUARDCON, SALEFORM2012
+[p66] The Baltic Exchange is the world’s only independent source of  | maritime market information for the trading and settlement of  | physical and derivative contracts.   | Baltic Exchange members are responsible for a large proportion of  | all dry cargo and tanker fixtures as well as the sale and purchase  | of merchant vessels. | The exchange provides daily freight market prices and maritime  | shipping cost indices which are used to settle freight futures  | (known as Forward Freight Agreements or FFAs) | Membership of the Baltic Exchange is not just limited to  | shipbrokers, charterers and shipowners, but also includes  | financial institutions, maritime lawyers, educators, insurers and  | related associations. | Baltic Exchange members undertake to commit to a code of  | conduct – Our Word Our Bond, overseen by the Baltic.
+[p67] The Baltic Dry Index (BDI) is a measure of what it costs to ship raw materials, including coal, iron ore and grain, around  | the world.  The shipping or sea freight rates are issued daily by the Baltic Exchange.  To compile the index, members of  | the Baltic Exchange call dry bulk shippers around the world to see what their prices are for more than 20 different  | shipping routes around the globe.  | The data are then weighted together to create both the overall BDI and the size specific Supramax, Panamax and  | Capesize indices.  | BALTIC DRY INDEX
+[p68] 5.1 Maritime Organisations (Industry) | • International Association of  | Independent Tanker  | Owners  |   | - open to independent  | tanker owners and  | operators of oil and  | chemical tankers, i.e. non-oil  | companies and non-state- | controlled tanker owners. |   | - a forum where industry  | meets, policies discussed,  | and statements created.
+[p69] Main role is to work  | with members,  | regulators and other  | shipping associations  | to ensure that  | shipping operates  | safely, efficiently,  | environmentally and  | profitably.  | INTERCARGO | Global Association of Dry Cargo Shipowners | International Association of Dry Cargo Shipowners
+[p70] 5.1 Maritime Organisations (Industry) | • World Shipping Council  |  - goal is to provide a coordinated voice for the liner  | shipping industry.  |  - operate approximately 90 percent of the global  | liner ship capacity, providing approximately 400  | regularly scheduled services linking the continents  | of the world.  |  - includes world’s ten largest container shipping  | companies. | Maersk Logo.svg | CMA CGM logo.jpg
+[p71] 5.1 Maritime Organisations (Industry) | • Institute of Chartered Shipbrokers (ICS) |   | - founded in 1911 as the professional body for all members  | of the commercial shipping industry worldwide. |   | - provides the shipping industry with highly qualified  | professionals being the only internationally recognized  | maritime professional body.  |   | - represents shipbrokers, ship managers and agents  | throughout the world.
+[p72] 5.1 Maritime Organisations (Industry) | • Protection and Indemnity (P&I)  | Clubs |   | - A marine insurance company only  | provides ‘hull and machinery’ cover  | for shipowners, and ‘cargo cover’ for  | cargo owners. |   | - Provides insurance for third party  | risks such as damage to cargo,  | collision, war risk and environmentally  | pollution such as oil spills.   |   | - only ship owners, operators and  | charterers with solid reputations are  | allowed to join a P&I club.
+[p73] 5.1 Maritime Organisations (Industry) | • Organization of the Petroleum Exporting Countries  | (OPEC) |  - an international organization and economic cartel  | whose mission is to coordinate the policies of oil- | producing countries. |  - goal: influence world oil prices through economic  | means. |  - consists of 11 countries: 5 from Middle East, 6 from  | Africa and 1 from South America.
+[p74] 
+[p75] 5.1 Maritime Organisations (Industry) | • Formed in 1985. | • Represents over 485 member companies.
+[p76] Review Questions | 7. The Baltic Dry Index is a compilation of the freight  | rates of ___ different shipping routes around the  | world. | a. 17 | b. 18 | c. 19 | d. more than 20 | Answer:
+[p77] 6. Two Main Types of Shipping Services | LO6
+[p78] 6. Two Main Types of Shipping Services
+[p79] 6.1 Tramp Shipping | Oil tanker | Gas Carrier | Dry Bulk Ship | Dry Bulk Cargo
+[p80] 6.1 Tramp Shipping | • Tramp shipping is also known as bulk shipping. | • Divided into dry and wet (liquid) bulk cargoes.
+[p81] 
+[p82] 
+[p83] 6.1 Tramp Shipping (Dry Bulk) | • Five major dry bulks – iron ore, grain, coal, phosphates  | and bauxite. | • Minor dry bulks – steel products, steel crap, cement,  | sugar, salt, forest products and wood chips. | • Wet bulk – crude oil, oil products, liquid chemicals  | such as caustic soda, vegetable oils and wine.
+[p84] 6.1 Tramp Shipping (Dry Bulk)
+[p85] 6.1 Tramp Shipping (Dry Bulk) | Exporter | Importer | Exporter | Importer | Exporter | Importer | Exporter | Importer
+[p86] 6.1 Tramp Shipping (Dry Bulk) | Exporter | Importer | Exporter | Importer | Key Dry Bulk Data Trends: January 2026 - AXSMarine | Exporter | Importer | Exporter | Importer
+[p87] 6.1 Tramp Shipping (Dry Bulk)
+[p88] 6.1 Tramp Shipping (Dry Bulk)
+[p89] Global Iron Ore Trade
+[p90] Global Steel Trade
+[p91] 6.1 Tramp Shipping (Dry Bulk)
+[p92] 6.1 Tramp Shipping (Dry Bulk) | Dry bulk and ore carrier sizes: | i. | ___________ – 15,000-39,000DWT | ii. | ___________ – 40,000-50,000DWT | iii. ___________ – 50,000-60,000DWT | iv. ___________ – 62,000-65,000DWT (new design with  | eco main engine) | v. | ___________ – 70,000-80,000DWT
+[p93] 6.1 Tramp Shipping (Dry Bulk) | Dry bulk and ore carrier sizes: | vi. ___________ – 80,000-85,000DWT (maximum  | permissible size to enter the port Kamsar in West  | Africa – one of the largest bauxite port in the world) | vii. ___________ – 160,000-210,000DWT | viii.Very Large Ore Carriers (VLOC) – 210,000- | 300,000DWT | ix. Ultra Large Ore Carriers (ULOC) – 300,000- | 400,000DWT (new design with eco main engine)
+[p94] 6.1 Tramp Shipping (Wet Bulk) | • Wet bulk – crude oil, oil products, liquid chemicals  | such as caustic soda, vegetable oils and wine.
+[p95] 6.1 Tramp Shipping (Wet Bulk) | Crude oil tankers sizes: | i. ___________ – 80,000-120,000DWT (ideally for short- | medium haul oil trades) | ii. ___________ – 120,000-160,000DWT (named after the  | Suez Canal) | iii.Very Large Crude Carriers (VLCC) – 160,000-320,000DWT  | (used in North Sea, Mediterranean and South Africa) | iv.Ultra Large Crude Carriers (ULCC) –320,000-350,000DWT  | (used for Middle East to Europe, Asia and North America)
+[p96] 6.1 Tramp Shipping (Wet Bulk)
+[p97] 
+[p98] 
+[p99] 
+[p100] Review Questions | 8. Which of the following is not one of the  | characteristic of tramp shipping? | a. No fixed itinerary | b. Operates like a bus service | c. One ship, one load | d. Dry and wet bulk cargoes | Answer:
+[p101] Review Questions | 9. Which of the following is not one of the five major  | bulks of dry bulk shipping? | a. Phosphate | b. Bauxite | c. Iron ore | d. Steel | Answer:
+[p102] Review Questions | 10. Suezmax Tanker has _______ barrel capacity.  | a. 650,000  | b. 1 million | c. 1.9 million | d. 3.7 million | Answer:
+[p103] 6.2 Liner Shipping | • “Trade according to a schedule of ports of loading and  | discharge, usually adhering to a published time-table  | on set conditions of carriage and often charged at a  | published rate of freight”. | Largest container ship  | in the world –  | MSC Irina
+[p104] Review Questions | 11. How many twenty-foot equivalent unit (TEUs)  | containers can MSC Irina hold? | a. 22,568 TEU | b. 23,456 TEU | c. 24,346 TEU | d. 25,222 TEU | Answer:
+[p105] 
+[p106] 6.2 Liner Shipping (Trade Routes)
+[p107] Asia to Europe | Trans-Pacific | Trans-Atlantic
+[p108] 6.2 Liner Shipping (Shipping Companies)
+[p109] 
+[p110] 
+[p111] 6.2 Liner Shipping (Freight Rates)
+[p112] 6.2 Liner Shipping (Container Terminal) | School of Civil and Environmental Engineering
+[p113] 6.2 Liner Shipping (Container Sizes)
+[p114] 6.2 Liner Shipping (Container Sizes)
+[p115] 6.2 Liner Shipping (Container Sizes) | School of Civil and Environmental Engineering
+[p116] 6.3 Ton-Miles Concept | • Transport demand determined by a precise  | matrix of distances which determine the time it  | takes a ship to complete each voyage. | LO7 | E.g., one ton of iron ore transported from Brazil to  | China (14772 miles) travels 3.6 times compared to  | one ton of iron ore shipped from Australia to China  | (4059 miles)
+[p117] 6.3 Ton-Miles Concept
+[p118] 6.3 Ton-Miles Concept | • The distance effect is generally referred as the  | ‘average haul (distance)’ of the trade.  | E.g., average distance travelled by grain trade has risen  | 32% between 2002 and 2023. | ton-miles = tonnage of cargo shipped x average distance  | over which its transported. | What is the implication of ton-miles on world trade?
+[p119] 7. Maritime Trading Networks | LO8
+[p120] 7. Maritime Trading Networks  | • Maritime trade dominated by three economic centres  | – North America, Europe and Asia.
+[p121] 7.1 Major Economic Centres (Europe)
+[p122] 7.1 Major Economic Centres (North America)
+[p123] 7.1 Major Economic Centres (Asia)
+[p124] 7.2 Major Maritime Chokepoints | • “critical points along transport routes that facilitate  | the passage of substantial trade volumes, which serve  | as vital arteries for global commence, connecting  | important regions worldwide”.
+[p125] 7.2 Major Maritime Chokepoints
+[p126] 7.2.1 Suez Canal | • Strategically located  | connecting the  | Mediterranean Sea at its  | northern end to the Rea  | Sea at its southern tip. | • Links Europe to Asian  | maritime routes leading  | to Indian and Pacific  | Oceans.
+[p127] 7.2.2 Bab el-Mandeb Strait (Red Sea) | • Connects the Red Sea to  | the Gulf of Aden and  | the Indian Ocean. | • Crucial for oil and  | natural gas from the  | Middle East. | Bab el-Mandeb
+[p128] 7.2.3 Strait of Hormuz | • Connects Persian Gulf with the  | Gulf of Oman and the Arabian  | Sea. | • Significant portion of the world’s  | petroleum passing through this  | chokepoint – approximately  | 20%. | • Geopolitical tensions can  | significantly impact oil prices  | and global energy security.
+[p129] 
+[p130] 
+[p131] 
+[p132] 7.2.4 Cape of Good Hope | • Connects Indian Ocean with the Atlantic Ocean. | • Main commodities: containerized cargo, crude oil and  | dry bulks (iron ore and coal).
+[p133] 
+[p134] 
+[p135] 7.2.5 Panama Canal | • Connects Pacific Ocean  | and the Atlantic Ocean. | • Average transit time for  | a vessel passing through  | is approximately 8 to 10  | hours, depending on  | vessel size, traffic  | congestion and weather  | conditions.
+[p136] 7.2.5 Panama Canal
+[p137] 7.2.6 Strait of Gibraltar | • Links the Mediterranean  | Sea with the Atlantic  | Ocean. | • Crucial for flow of crude  | oil and LNG, mainly to  | European markets. | • Approximately 300 ships  | cross every day.
+[p138] 
+[p139] 7.2.7 Strait of Malacca | • One of the world’s busiest shipping lanes, connecting  | Indian Ocean to the South China Sea. | • Serves as a vital conduit for trade between Asia and  | Europe.  | • Crucial passage for oil shipments from Middle East to  | Asia.
+[p140] 7.2.7 Strait of Malacca | Threats from land  | bridge/canal  | projects in Thailand
+[p141] 7.2.8 Turkish Straits | • Pair of vital waterways,  | the Bosphorus and  | Dardanelles,  | connecting the Black  | Sea to the Aegean and  | Mediterranean Sea. | • Transport of oil and  | grain from the Black  | Sea
+[p142] 7.2.8 Turkish Straits | Turkish Straits
+[p143] Review Questions | 12. ________ connects the Red Sea to the Gulf of Aden.  | a. Bab el-Mandeb | b. Strait of Hormuz | c. Strait of Malacca | d. Strait of Gibraltar | Answer:
+[p144] Summary
+[p145] Summary | • Shipping is a derived demand of level of international  | trade. | • Shipping is a part of larger supply chains.  | • Maritime eco-system is made up of multitude of  | actors. | • Shipping is regulated and influenced on international  | and national levels.
+[p146] Summary | • There are two main types of shipping services – tramp  | and liner. | • Maritime trade dominated by three important trade  | centres – US, Europe and Asia and multiple choke  | points.
+[p147] 

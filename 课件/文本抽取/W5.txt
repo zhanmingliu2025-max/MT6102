@@ -1,0 +1,61 @@
+[p1] Week 5 – Demand of  | Maritime Transport | Prepared by Dr. Kelvin Pang | 10 September 2026
+[p2] Learning Objectives | 1. Explain the shipping market model which depicts the  | relationship between demand, supply and freight  | market.  | 2. Discuss the factors causing the world or business  | economy to be cyclical in nature. | 3. Discuss how random shocks affects seaborne  | commodity trades.
+[p3] Learning Objectives | 4. Discuss how seaborne commodity trades is affected  | by short-term volatility and long-term trends.  | 5. Calculate the ton-miles and average haul of a  | commodity. | 6. Discuss how transport costs influence purchasing  | decisions for customers.
+[p4] 1. Shipping Market Model
+[p5] 1. Shipping Market Model | • Aim of shipping companies is to take advantages of the  | cycles to buy ships at low prices and sell at high prices. | • Only can be achieved if shipping companies are able to  | recognize or predict the peaks and troughs on the  | freight market.  | • This and next topic explores the mechanisms which  | determine freight rates > result of demand and supply  | balance.
+[p6] 1. Shipping Market Model | • Five factors affecting the demand for sea transport and  | five affecting supply.  | • These factors fit together to form a model with freight  | market regulating cash flow from one sector to  | another.  | School of Civil and Environmental Engineering
+[p7] 1. Shipping Market  | Model
+[p8] 1.1 Demand Module (A)
+[p9] 1.1 Demand Module (A) | • The ________________, through business cycles and  | regional growth trends, determines the volume of  | goods traded by sea. | • Developments in particular __________________ may  | modify growth trends (E.g., development of  | construction industry in China – influence on steel) | • Random shocks will influence ton-miles and average  | haul, and transport costs.
+[p10] 1.2 Supply Module (B)
+[p11] 1.2 Supply Module (B) | • World merchant fleet provides a fixed stock of  | transport capacity. | • When demand is low, ships may be laid up.  | • Amount of transport depends on ship’s efficiency –  | speed and waiting time. | • Policies of banks and regulators also have an impact  | (E.g., amount of lending and environment policy)
+[p12] 1.3 Dynamic Links | • Heart of this shipping market model is people and  | psychology. | People | Examples | Cargo Shippers | (Demand side) | - Large corporations trading in raw  | materials (E.g. Cargill) | Shipping Investors | (Supply side) | - KG companies who owns containerships.  | - Major oil companies with their own  | fleets.
+[p13] 1.3 Dynamic Links | • Shipping investors and cargo shippers have to negotiate the  | rates for each ship. | • Psychology plays a role at the negotiating table |   | - rates agreed vary depending on how the negotiating  | parties feel. |   | E.g., a ship might be fixed for $20,000 per day on Monday  | but a sister ship might be fixed for $30,000 per day on  | Tuesday because the charterer might have heard a rumour  | about charter rate rising.
+[p14] Review Questions | 1. Which of the following is NOT part of the factors in  | the demand module in the shipping freight model? | a. Average haul | b. Random shocks | c. Transport costs | d. Freight revenue | Answer:
+[p15] 2. World Economy (Business Cycle and  | Trade Development Cycle)
+[p16] 2. World Economy | • World economy generates most of the demand for sea  | transport, through either import of raw materials for  | manufacturing industry or trade of manufacture  | products.  | • Business cycle determines the short-term cycles in  | seaborne trade.  | • Fluctuations in rate of economic growth influence  | seaborne trade > creating cyclical pattern of demand.
+[p17] World GDP and Seaborne Trade (2000-2020)
+[p18] 
+[p19] 2. World Economy | • The relationship between world economy and shipping  | demand is not simple or direct because of the  | following aspects: | a) Business cycle | b) Trade development cycle
+[p20] 2.1 Business Cycle | • 4 most commonly quoted causes of business cycle: | 1. Multiplier and accelerator | 2. Time-lags | 3. Stock-building | 4. Mass psychology
+[p21] 2.1.1 Multiplier and Accelerator | • An increase in investment (e.g., new factories set up)  | creates new consumer demand from the workers  | hired. | • Workers spend their wages > creates more demand  | (_______________ multiplier). | • As extra consumer expenditure trickles through the  | economy, growth picks up, generating demand for  | even more investment.
+[p22] 2.1.1 Multiplier and Accelerator | • Eventually, capital becomes fully utilized and economy  | over-heats. | • Expansion sharply halted, throwing whole process into  | reverse. | • Investment falls off, jobs are lost, and multiplier and  | accelerator go into reverse > recession.
+[p23] 2.1.2 Time Lags | • Delays between economic decisions and their  | implementation make cyclical fluctuations more  | extreme. | • _______________ – excessive interest rates cuts to fix  | slow economy .  | • ________________ – businesses make plans based on  | current conditions but regulations/money supplies  | changing today will only hit their profits much later.
+[p24] 2.1.3 Stock-building | • Stock-building produces sudden bursts of demand as  | industries adjust their stocks/inventory during the  | business cycle.  | • During recessions, financially hard-pressed  | manufacturers stop ordering new inventory,  | intensifying downturn in demand for sea transport.  | • When economy recovers, sudden rush to rebuild  | inventory > sudden burst in commodity demand.
+[p25] 2.1.4 Mass Psychology | • If they act in an imitative manner, a particular trend  | will build up where they can affect whole economic  | system.  | • Periods of optimism or pessimism become self- | fulfilling through medium of stock exchanges, financial  | booms and behaviour of investors.
+[p26] 2.2 Trade Development Cycle | • Regional development cycles determine the medium  | to long-term trends in seaborne trade.
+[p27] 2.2 Trade Development Cycle | • Two reasons why, over long periods, trade growth of  | individual regions will probably change.  | a. Economic structure changes over time. | b. Ability of local resources of food and raw materials  | to meet local demand.
+[p28] 2.2 Trade Development Cycle
+[p29] 3. Random Shocks
+[p30] 3. Random Shocks  | • Upsetting the stability of the economic system due to  | unexpected shocks.  | • Could be political (Russia-Ukraine war), economic  | (trade war between US and China), new resources (AI),  | weather changes, pandemics (covid).  | • Differs from cycles because they are unique, often  | precipitated by some particular event and impact on  | shipping market is often very severe.
+[p31] 3.1 Russia-Ukraine War
+[p32] 3.2 Covid Pandemic
+[p33] 
+[p34] 
+[p35] 3.3 Weather Changes
+[p36] 4. Seaborne Commodity Trades (Short- | Term Volatility and Long-Term Trends)
+[p37] 4. Seaborne Commodity Trades
+[p38] 4.1 Short-Term Volatility | • An important cause is the ____________________. | - many agricultural commodities are subject to seasonal  | variations caused by harvests. | E.g. grain, sugar and citrus fruits. | - Grain exports from the U.S. Gulf reach a trough in the  | summer then build up in September as the crop is  | harvested. Trade may increase by as much as 50%  | between September and end of the year.  | - In liner trade, seasonal peaks occur during August to  | October leading to major holidays.
+[p39] 4.2 Long-Term Trends
+[p40] 4.2.1 Form | • Refers to changes in demand for a particular  | commodity. E.g., Cobalt
+[p41] 
+[p42] 
+[p43] 
+[p44] 
+[p45] Cobalt-free batteries could power cars of the future | MIT News | Massachusetts Institute of Technology
+[p46] 4.2.2 Place | • Refers to changes in sources from which supplies of  | commodities are obtained.  | • Affected by geopolitical tensions, climate changes,  | national protectionism.  | • Example: |   | (1) grain trade after the Russia-Ukraine war. |   | (2) Chinese iron ore import from Australia and Brazil. |   | (3) crude oil trade with new technology.
+[p47] 
+[p48] 4.2.3 Process | • Refers to changes due to the relocation of processing  | plants which changes the trade pattern. | • Reshoring – bringing production back to the country or  | origin or nearby region. | • Nearshoring – practice of relocating production to  | company’s primary market or within a nearby region.
+[p49] 4.2.4 Time | • Refers changes in shipper’s transport policy.
+[p50] Review Questions | • “Changes due to the relocation of plants which  | changes trade patterns” refers to which of the long- | term trends? | a. Form | b. Place | c. Process | d. Time | Answer:
+[p51] 5. Ton-Miles and Average Haul
+[p52] 
+[p53] 5. Ton-Miles and Average Haul | • Ton-miles = tonnage of cargo shipped x average  | distance over which its transported. | • Average haul = ton-miles ÷ tons of freight carried.
+[p54] Review Questions | • Based on the data below, what is the average haul for  | the shipment of crude oil? | Shipment | Weight  | (mt) | Distance | (miles) | Ton-miles | A | 8 | 20 | B | 12 | 40 | C | 14 | 60
+[p55] There are two routes to transport cargo: | Route A: Weekly demand for  | the cargo is 100,000 tons.  | Each ship is able to carry  | 50,000 tons of cargo. Round- | trip time of this route is 35  | days.  | Route B: Weekly demand for  | the cargo is 100,000 tons.  | Each ship is able to carry  | 50,000 tons of cargo. Round- | trip time of this route is 70  | days.  | How many ships are required for route A  | and route B? | 5. Ton-Miles and Average Haul
+[p56] • Demand for shipping service:  |   | = | • Number of ships require for route A:  |   | = |   | = | • Number of ships require for route B:  |   | = |   | =
+[p57] 6. Transport Costs
+[p58] 6. Transport Costs
+[p59] 6. Transport Costs
+[p60] Summary
+[p61] Summary

@@ -1,0 +1,60 @@
+[p1] Week 6 – Supply of Maritime  | Transport | Prepared by Dr. Kelvin Pang | 17 September 2026
+[p2] Learning Objectives | 1. Explain that the supply of shipping services is very  | inelastic. | 2. Identify the decision-makers controlling the supply. | 3. Discuss the trends in the world merchant fleet  | composition. | 4. Elaborate the factors that contribute to fleet  | productivity.
+[p3] Learning Objectives | 5. Analyse the shipbuilding production for each sector.  | 6. Analyse the factors influencing scrapping and losses.  | 7. Explain how shipowners can increase or decrease  | their supply in the short-run and long-run in response  | to changing freight rates.
+[p4] 1. Introduction
+[p5] 1. Introduction
+[p6] 1. Introduction | • Supply of shipping services is slow and ponderous in its  | responses to changes in demand.  | • Ships generally take at least a year to build and delivery | may take 2-3 years under the peak market cycle.  | • Prevents the market from responding promptly to any  | sudden upsurge in demand.  | • Once built, the ships have a 20-30 years lifespan, so  | responding to a fall in demand is a lengthy business,  | particularly when there is a large surplus to be removed.
+[p7] 1.1 Supply of Shipping Services
+[p8] 1.1 Supply of Shipping Services | The slope of the shipping supply curve depends on three  | factors: | Bigger ships have lower  | transport costs per unit  | of cargo. Hence, _______  | ships will have a _______  | lay-up point. This drives  | the smaller or inefficient  | ships into lay-up during  | recessions.  | _____ ships have _______  | operating costs so the lay- | up point will occur at a  | _______ freight rate. | When all the available  | tonnages are in use, supply  | of tonnage can only be  | increased with higher  | speeds and improvement  | in operational efficiency of  | ships. Under such  | circumstances, there will be  | a steep slope in the  | shipping supply curve.
+[p9] 1.1 Supply of Shipping Services
+[p10] 1.1 Supply of Shipping Services | • Price elasticity of shipping supply measures its  | responsiveness to changes in freight rates. | • During recessions, the supply of sea transport tends to  | be very elastic when many ships are laid up. | • When all ships are in service, the supply becomes  | ____________.
+[p11] 1.1 Supply of Shipping Services | Supply of sea transport is measured in terms of the supply of  | tonnage, which refers to the available capacity for carrying cargo  | from one or more ports to one or more ports by sea.  | All ships that are  | trading in the freight  | market constitute to  | ‘________ shipping  | supply’.  | Ships that are not  | trading , i.e., laid-up  | tonnage, constitute  | ‘___________ shipping  | supply’.  | All ships that are  | suitable for trading,  | i.e., active shipping  | supply, and available  | shipping supply  | constitute the total  | shipping supply.
+[p12] 1.2 Decision-Makers  | The supply of ships is affected by four parties. | ____________  | decide  | whether to  | order new  | ships or scrap  | old ships.  | _______ influence  | shipowners by  | booking shipping  | space to transport  | their cargoes.  | __________  | influence  | investment as  | lenders to  | finance ship  | purchase.  | ________ affect  | fleet capacity  | through safety or  | environmental  | legislations.
+[p13] 2. World Fleet
+[p14] 2. World Fleet | • In the long run, deliveries of new ships and scrapping  | of old ships determine the rate of fleet growth. | • Since average life span of ship is 25 years, only a small  | proportion of the fleet is scrapped each year. | • Key feature of shipping – how supply adjusts, when  | ship demand does not turn out as expected.
+[p15] 
+[p16] 
+[p17] Container Market
+[p18] Tanker Market
+[p19] Dry Bulk Market
+[p20] Review Question | • When all ships are in service, supply is said to be  | inelastic. | a. True | b. False | Answer:
+[p21] Review Question | • Which of the following does not influence the supply  | of maritime transport services? | a. Bankers | b. Regulatory authorities | c. Shipowners | d. Ship agents | Answer:
+[p22] 3. Fleet Productivity
+[p23] 3. Fleet Productivity | • Measure in ton-miles per deadweight. |   | quantity of cargoes shipped (ton) x distance shipped (miles) |   |   |   |   |   |   total deadweight tonnage  | • Four factors influencing productivity: | a. Speed | b. Port time | c. Deadweight utilisation | d. Loaded days at sea
+[p24] 3.1 Speed | • Refers to the _______________ ________________. | • When faced with depressed freight market and  | improving cargo efficiency (ton-miles) is not possible,  | shipowners reduce their operational costs or remove  | vessels from trading. | • To save bunker fuel costs, owners ___________. | • Eventually, ships too expensive to operate are laid up.
+[p25] 3.1 Speed
+[p26] 3.2 Port Time | Port _____________ | (increase demand,  | limited port capacity,  | pandemic, extreme  | weather, accidents) | Port  | _________ | Additional  | burden to carriers  | & shippers | Lose business  | competitiveness
+[p27] 3.3 Deadweight Utilisation | • Refers to the _________________________________  | been utilised to carry cargo.  | • Remaining capacity not utilised or lost due to bunkers,  | stores or less than full-load quantities stipulated in the  | charter-party.  | • During recessions/random shocks, deadweight  | utilisation reduced as there is increasing tendency for  | owners to carry part cargoes to cover operating costs  | or reposition vessels.
+[p28] 3.4 Loaded Days at Sea | • A vessel’s time is divided between loaded days at sea  | and ‘_____________’ days (in ballast, port or off hire). | • Reduction in unproductive time allows an increase in  | loaded days at sea. | • Vessels designed for cargo flexibility can improve their  | loaded time at sea because they are able to switch  | their cargoes for backhaul voyages.
+[p29] Combination Carriers
+[p30] 3.4 Loaded Days at Sea
+[p31] 4. Shipbuilding Deliveries
+[p32] 4. Shipbuilding Deliveries  | • Shipbuilding is a long-cycle business and time-lag  | between ordering and delivery can be between 1-4  | years depending on the size of orderbook held by  | shipbuilders.  | • Orders must be placed on the basis of an estimate of  | future demand.
+[p33] 
+[p34] 
+[p35] 
+[p36] 
+[p37] 
+[p38] 
+[p39] 
+[p40] Review Question | • Which of the following will decrease fleet productivity? | a. Increasing speed | b. Improving deadweight utilization | c. Increasing non-trading days. | d. Finding commodities for back haul journey.  | Answer:
+[p41] 5. Scrapping and Losses
+[p42] 5. Scrapping and Losses | • Rate of growth of merchant fleet depends on the  | balance between deliveries of new ships and deletions  | from the fleet in the form of ships scrapped or lost at  | sea.  | • Explaining or predicting the age at which a ship will  | actually be scrapped is an extremely complex matter.
+[p43] 5. Scrapping and Losses | • Dependent on: | i. | Age | ii. | Technical obsolescence | iii. Scrap prices | iv. Current earnings (financial position) | v. | Owner’s expectations
+[p44] 5.1 Age | • Primary factor determining tonnage of vessels  | scrapped. | • As ships get older, the _____________________ and  | _________________________.  | • No specific age at which a ship is scrapped, depends  | typically on its market or technical reason.
+[p45] 5.2 Technical Obsolescence | • May reduce the age at which a particular type of  | vessel is scrapped because it is superseded by a more  | efficient ship type.  | • Extends to the ship’s machinery and gear.  | • Affected by _____________.
+[p46] 5.3 Scrap Prices | • Decision to scrap also influenced by scrap prices > steel  | industry.  | • Scrap prices fluctuate widely depending upon the state  | of demand and supply in the steel industry and  | availability of scrap metal from shipbreaking or  | demolition of vehicles.  | • Period of extensive ship scrapping may even depress  | prices of scrap metal.
+[p47] 
+[p48] 
+[p49] 5.4 Current Earnings and Owner’s Expectations  | • Scrapping of a ship is a business decision.  | • Depends on owner’s expectations of the future  | operating profitability of the vessel and his financial  | position.  | • During recession, IF OWNER BELIEVES there is small  | chance of freight market boom in near future: | ➢ unlikely to sell unprofitable ships for scrap; | ➢ justify incurring a small operating loss
+[p50] 6. Freight Revenue
+[p51] 6. Freight Revenue | How do shipping firms adjust their supply of shipping services?  | The supply of shipping facilities cannot expand or contract in the  | ________ run.  | In the _______ run, there is a time lag between entrepreneurs’  | decision to expand their fleets and the actual time of delivery of  | new vessels.  | Thus, the supply of shipping services tends to be inelastic and  | incapable of responding instantly to demand and freight rate  | changes.
+[p52] 6.1 Short Run | It is unlikely to expand or reduce the number of ships in the short run.  | However, it does not mean that active supply remains the same.  | If freight rates are ________________ and if carriers anticipate an upward  | trend in the freight market, active supply will increase as a result of the  | following developments: | Postponement  | of periodic  | surveys and  | maintenance | Maximization  | of the possible  | service speed  | at sea | Acceleration of  | the processes  | of loading and  | unloading in  | order to reduce  | the berthing  | time | Reduction in  | laid-up  | tonnages
+[p53] 6.1 Short Run | On the other hand, if freight rates are ________________ and if  | carriers do not anticipate an improvement in the shipping market,  | active supply will decrease as a result of the following: | Decrease in the  | average speed  | of vessels at  | sea, i.e. slow  | steaming. | Carrying  | quantities of  | cargo that are less  | than the  | maximum cargo- | carrying capacity  | of vessels. | Slow  | operation for  | loading and  | discharging. | Laying up of  | vessels.
+[p54] 6.1 Short Run | _____ Layup | usually  | relatively  | short term. | reduced  | number of  | crew on board  | and some  | machinery  | working. | vessel can be  | reactivated  | with less cost,  | time and  | effort.
+[p55] 6.1 Short Run | _____ Layup | Usually  | relatively  | long term,  | vessel  | anchored in  | secure  | location | all systems  | shut down  | with minimum  | ongoing  | maintenance | Specialist lay- | up crew may  | be employed.
+[p56] 6.2 Long Run | Long run is a term used to denote a period over which full adjustment to change  | can take place. It refers to the period in which capital stock, such as ships, can be  | replaced. It also denotes the time over which shipping firms can enter or leave the  | shipping industry.  | The magnitude of supply in the long run depends on the following factors: | The level of demand for  | shipping services. | Carriers’ expectations  | regarding the freight  | rates of the shipping  | market. | Technical development as  | technical progress and  | innovations in shipbuilding  | can contribute to more  | economically efficient  | production of sea transport  | services.
+[p57] 6.2 Long Run
+[p58] Review Question | When freight rate is low, __________. | a. In the short run, shipowner can increase speed and in  | the long run, the shipowner can scrap ships. | b. In the short run, shipowner can reduce speed and in  | the long run, shipowner can order ships. | c. In the short run, shipowner can reduce speed and in  | the long run, shipowner can scrap ships. | d. In the short run, shipowner can increase speed and in  | the long run, shipowner can order ships.  | Answer:
+[p59] Summary
+[p60] Summary | • The rules of the shipping market game are set by the  | economic relationships which create freight rates.  | • As demand for ships changes rapidly, but supply is slow  | and ponderous, freight cycles are generally irregular.  | • In order to have a clear picture and/or forecast of the  | world shipping supply, have to view the factors  | collectively, rather than individually.
