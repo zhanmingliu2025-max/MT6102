@@ -147,7 +147,7 @@ ax1.plot(c1["Date"], c1.iloc[:, 1], color=BLUE, lw=1.6)
 ax1.xaxis.set_major_locator(mdates.YearLocator())
 ax1.xaxis.set_major_formatter(mdates.DateFormatter("%Y"))
 ax1.set_ylim(300, 4050)
-ax1.annotate("3,521 (+41% in 3 months)", xy=(c1["Date"].iloc[-1], 3521), xytext=(-178, 12),
+ax1.annotate("3,521 on 10 Sep (+41% in 3 months); 3,002 on 6 Oct", xy=(c1["Date"].iloc[-1], 3521), xytext=(-250, 12),
              textcoords="offset points", fontsize=9, fontweight="bold", color=BLUE)
 ax1.set_title("Baltic Dry Index, daily", loc="left", fontweight="bold")
 style(ax1, "Index points")
@@ -155,9 +155,9 @@ ax2.plot(a2["Date"], a2.iloc[:, 1], color=BLUE, lw=2, label="Ultramax 63.5k 5-yr
 m5 = a5["Date"] >= "2019-01-01"
 ax2.plot(a5.loc[m5, "Date"], a5.loc[m5].iloc[:, 1], color=ORANGE, lw=2, label="Kamsarmax 82k 5-yr-old")
 ax2.legend(frameon=False, loc="upper left", fontsize=9)
-ax2.set_title("Secondhand values: rising, not overheated", loc="left", fontweight="bold")
+ax2.set_title("Secondhand values: rising gradually", loc="left", fontweight="bold")
 style(ax2, "$ million")
-fig.suptitle("Dry Bulk: Recovery Confirmed", x=0.01, y=1.03, ha="left", fontsize=14, fontweight="bold")
+fig.suptitle("Dry Bulk: Recovery Under Way, Not Overheated", x=0.01, y=1.03, ha="left", fontsize=14, fontweight="bold")
 finish(fig, "05_drybulk_recovery.png", SRC + " [17259, 542021, 540721]. Extracted 12 Sep 2026.")
 
 # ---------- 6. Guinea bauxite ----------
@@ -243,9 +243,9 @@ finish(fig, "10_sanctioned_fleet.png", SRC + " [12116108, 12110871]; SIN News Ar
 
 # ---------- 11. Scenario earnings ----------
 import numpy as np
-sc = ["Bear — spot at 2025 avg", "Base — last-done fixtures", "Bull — current spot holds"]
-gross = [43.3, 49.7, 53.3]
-net = [30.5, 36.9, 40.5]
+sc = ["Bear: spot legs at 2025 average", "Base: last-done fixtures", "Bull: current spot holds"]
+gross = [44.7, 49.7, 53.3]
+net = [31.9, 36.9, 40.5]
 x = np.arange(3)
 fig, ax = plt.subplots(figsize=(9, 4.4))
 ax.bar(x - 0.18, gross, 0.32, color=BLUE, label="Before OPEX (assignment basis)", zorder=3)
@@ -256,7 +256,7 @@ for i in range(3):
 ax.set_xticks(x, sc, fontsize=9)
 ax.legend(frameon=False, loc="upper left", fontsize=9)
 ax.set_ylim(0, 63)
-ax.set_title("12-Month Earnings on USD 250m — 60% of days fixed to first-class charterers caps the downside at 17.3%",
+ax.set_title("12-Month Earnings on USD 250m — 60% of days fixed to first-class charterers caps the downside at 17.9%",
              loc="left", fontweight="bold", fontsize=11.5)
 style(ax, "$ million")
 ax.grid(axis="x", visible=False)

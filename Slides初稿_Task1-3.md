@@ -28,12 +28,12 @@
 > - 2× MR product tankers · 1× Aframax crude tanker · 2× Kamsarmax bulkers
 > - **60% of operating days fixed** to first-class charterers (SUNCOR, AET-benchmark, Cargill-benchmark)
 > - Expected 12-month earnings **before OPEX**:
->   Bear **US$43.3m (17.3%)** · Base **US$49.7m (19.9%)** · Bull **US$53.3m (21.3%)**
+>   Bear **US$44.7m (17.9%)** · Base **US$49.7m (19.9%)** · Bull **US$53.3m (21.3%)**
 > - Every price and rate = **last transacted sale/fixture** on Clarksons SIN
 
-**讲稿（CN）**：方案全貌一页看完。五艘二手船加现金储备，2.5 亿精确用满。收益三种情形算清楚：基准 19.9%，最差也有 17.3%——底线之所以稳，是因为六成营运天已经用租约锁给了 SUNCOR、Cargill 这种一线租家。注意：每一个价格都来自"最近一笔真实成交"，这是题目的硬性要求，我们逐笔照做。
+**讲稿（CN）**：方案全貌一页看完。五艘二手船加现金储备，2.5 亿精确用满。收益三种情形算清楚：基准 19.9%，最差也有 17.9%——底线之所以稳，是因为六成营运天已经用租约锁给了 SUNCOR、Cargill 这种一线租家。注意：每一个价格都来自"最近一笔真实成交"，这是题目的硬性要求，我们逐笔照做。
 
-**素材**：四个大数字 tile（$250m / 19.9% / 17.3% / 60%）。
+**素材**：四个大数字 tile（$250m / 19.9% / 17.9% / 60%）。
 
 ---
 
