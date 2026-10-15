@@ -58,7 +58,7 @@ ax1.annotate("$111m", xy=(a3["Date"].iloc[-1], 111), xytext=(-52, 2), textcoords
 ax1.annotate("$90m", xy=(a6["Date"].iloc[-1], 90), xytext=(4, -3), textcoords="offset points",
              fontsize=9, fontweight="bold", color=ORANGE, annotation_clip=False)
 ax1.set_xlim(right=pd.Timestamp("2028-03-01"))
-ax1.set_title("Suezmax: secondhand now 1.23x newbuild price", loc="left", fontweight="bold")
+ax1.set_title("Suezmax: secondhand 1.23x newbuild in Sep (1.44x by Oct)", loc="left", fontweight="bold")
 style(ax1, "$ million")
 bars = ["Spot earnings\n(avg, 11 Sep)", "1-yr TC\n(assessment)", "3-yr TC\n(assessment)"]
 vals = [335.9, 90.3, 46.3]
@@ -147,7 +147,7 @@ ax1.plot(c1["Date"], c1.iloc[:, 1], color=BLUE, lw=1.6)
 ax1.xaxis.set_major_locator(mdates.YearLocator())
 ax1.xaxis.set_major_formatter(mdates.DateFormatter("%Y"))
 ax1.set_ylim(300, 4050)
-ax1.annotate("3,521 on 10 Sep (+41% in 3 months); 3,002 on 6 Oct", xy=(c1["Date"].iloc[-1], 3521), xytext=(-250, 12),
+ax1.annotate("3,521 on 10 Sep (+41% in 3 months); 2,801 on 13 Oct", xy=(c1["Date"].iloc[-1], 3521), xytext=(-250, 12),
              textcoords="offset points", fontsize=9, fontweight="bold", color=BLUE)
 ax1.set_title("Baltic Dry Index, daily", loc="left", fontweight="bold")
 style(ax1, "Index points")
@@ -243,9 +243,9 @@ finish(fig, "10_sanctioned_fleet.png", SRC + " [12116108, 12110871]; SIN News Ar
 
 # ---------- 11. Scenario earnings ----------
 import numpy as np
-sc = ["Bear: spot legs at 2025 average", "Base: last-done fixtures", "Bull: current spot holds"]
-gross = [44.7, 49.7, 53.3]
-net = [31.9, 36.9, 40.5]
+sc = ["Bear: spot legs at 2025 average", "Base: last-done fixtures", "Bull: spot of 9 Oct 2026 holds"]
+gross = [44.7, 49.7, 59.2]
+net = [31.9, 36.9, 46.4]
 x = np.arange(3)
 fig, ax = plt.subplots(figsize=(9, 4.4))
 ax.bar(x - 0.18, gross, 0.32, color=BLUE, label="Before OPEX (assignment basis)", zorder=3)
@@ -255,11 +255,11 @@ for i in range(3):
     ax.text(x[i] + 0.18, net[i] + 0.8, f"${net[i]:.1f}m", ha="center", fontsize=9, color=INK2)
 ax.set_xticks(x, sc, fontsize=9)
 ax.legend(frameon=False, loc="upper left", fontsize=9)
-ax.set_ylim(0, 63)
+ax.set_ylim(0, 70)
 ax.set_title("12-Month Earnings on USD 250m — 60% of days fixed to first-class charterers caps the downside at 17.9%",
              loc="left", fontweight="bold", fontsize=11.5)
 style(ax, "$ million")
 ax.grid(axis="x", visible=False)
-finish(fig, "11_scenarios.png", "Basis: last-done fixtures (SIN Fixtures Register, Aug-Sep 2026); OPEX = Clarksons series [540687/540689/540683]; 350 operating days/ship.")
+finish(fig, "11_scenarios.png", "Basis: last-done fixtures (SIN Fixtures Register, Aug-Sep 2026); Bull = SIN earnings series week of 9 Oct 2026; OPEX = Clarksons series [540687/540689/540683]; 350 operating days/ship.")
 
 print("ALL CHARTS DONE")

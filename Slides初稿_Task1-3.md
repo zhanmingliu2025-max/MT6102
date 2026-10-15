@@ -27,15 +27,15 @@
 >
 > | Allocation | USD m (share) | Why this much | Data behind the decision (Clarksons SIN) |
 > |---|---|---|---|
-> | **2× MR product tankers**, 5-yr-old Eco, 50k dwt. One on 1-yr TC at $30,000/day, one spot | **100 (40%)** | Only segment priced below newbuild: 5-yr-old $50m vs newbuild $52m. Products trade +6.3% in 2027F, tonne-miles +6.5%. Spot earnings $35,800/day sit above the 1-yr TC, so one ship stays open. Orderbook 18% of dwt is high, but 367 ships on order vs 568 ships over 20 years old | Series 47130 / 71267 (prices), 98802 / 534403 (products trade), 543759 (MR Eco earnings). Fixtures *PS Imabari* to SUNCOR $30,000, *Challenge Pollux* to ExxonMobil $27,000 (17 Aug 26). Charts 07, 14 |
-> | **1× Aframax crude tanker**, 2018 Japan-built, 110-115k dwt, 3-yr TC at $40,000/day | **75 (30%)** | Lowest orderbook of any segment: 8.4% of dwt, 62 ships on order vs 223 over 20 years old. A 3-year fixture at $40,000 exists (*Torm Genesis* to AET, 31 Aug), so income is certain through the 2027-28 delivery wave. One ship only: LR2 newbuilds (orderbook 34.8%) can switch into crude. No Suezmax: 5-yr-old $111m vs newbuild $90m, 1-yr TC $90,000 vs 3-yr $46,000 | Series 534456 (orderbook), 531168 (earnings), 87302 / 53070 and 48989 / 49108 (Suezmax peak signals), L13-L16 (deliveries, demolition, schedule, age). Sales *Southern Reverence* and *Pusaka Borneo* at $75.0m. Charts 01-04, 12-14 |
-> | **2× Kamsarmax bulkers**, 82k dwt, Japan-built 2019 and 2015. One on 12-mo TC at $22,000/day, one spot for the Q4 grain season | **70 (28%)** | Recovery, not peak: BDI 3,521 on 10 Sep (+41% in 3 months), 3,002 on 6 Oct; 5-yr-old price 9% above newbuild vs 23% for Suezmax. Supply healthy: orderbook 13.5%, 2025 deliveries 143 vs demolition 14, 2027 deliveries 171 vs 618 ships over 20 years old. Cargo is real: Guinea bauxite +29% y/y, Simandou iron ore starting 2026. Japan-built premium $2.75m over China-built = port-fee insurance | Series 17259 (BDI), 534450 (orderbook), 540721 (5-yr-old price), 557125 (bauxite), 534400 / 547349 (grain), 533288 (Kamsarmax Eco earnings). Sales *Aquavita Aim* $38.0m, *Medi Positano* $32.0m, *Presinge* $29.25m. Fixtures *Intensity* to CNR $22,000, *XH Hope* to Cargill $23,000, coal DBCT-Vizag $25.60/t (SAIL). Charts 03, 05, 06, 12-14 |
+> | **2× MR product tankers**, 5-yr-old Eco, 50k dwt. One on 1-yr TC at $30,000/day, one spot | **100 (40%)** | Closest to replacement cost of the five segments: 5-yr-old $50m vs newbuild $52m in September (0.96), $52m vs $52.5m in October (0.99); every other segment trades above newbuild. Products trade +6.3% in 2027F, tonne-miles +6.5%. Spot earnings $53,741/day (week of 9 Oct) sit above the 1-yr TC, so one ship stays open. Orderbook 18% of dwt is high, but 367 ships on order vs 568 ships over 20 years old | Series 47130 / 71267 (prices), 98802 / 534403 (products trade), 543759 (MR Eco earnings). Fixtures *PS Imabari* to SUNCOR $30,000, *Challenge Pollux* to ExxonMobil $27,000 (17 Aug 26). Charts 07, 14 |
+> | **1× Aframax crude tanker**, 2018 Japan-built, 110-115k dwt, 3-yr TC at $40,000/day | **75 (30%)** | Lowest orderbook of any segment: 8.4% of dwt, 62 ships on order vs 223 over 20 years old. A 3-year fixture at $40,000 exists (*Torm Genesis* to AET, 31 Aug), so income is certain through the 2027-28 delivery wave. One ship only: LR2 newbuilds (orderbook 34.8%) can switch into crude. No Suezmax: 5-yr-old $130m vs newbuild $90m in October (1.44x), 1-yr TC $140,250 vs 3-yr $64,375 | Series 534456 (orderbook), 531168 (earnings), 87302 / 53070 and 48989 / 49108 (Suezmax peak signals), L13-L16 (deliveries, demolition, schedule, age). Sales *Southern Reverence* and *Pusaka Borneo* at $75.0m. Charts 01-04, 12-14 |
+> | **2× Kamsarmax bulkers**, 82k dwt, Japan-built 2019 and 2015. One on 12-mo TC at $22,000/day, one spot for the Q4 grain season | **70 (28%)** | Recovery, not peak: BDI 3,521 on 10 Sep (+41% in 3 months), 2,801 on 13 Oct; 5-yr-old price 9% above newbuild vs 23% for Suezmax. Supply healthy: orderbook 13.5%, 2025 deliveries 143 vs demolition 14, 2027 deliveries 171 vs 618 ships over 20 years old. Cargo is real: Guinea bauxite +29% y/y, Simandou iron ore starting 2026. Japan-built premium $2.75m over China-built = port-fee insurance | Series 17259 (BDI), 534450 (orderbook), 540721 (5-yr-old price), 557125 (bauxite), 534400 / 547349 (grain), 533288 (Kamsarmax Eco earnings). Sales *Aquavita Aim* $38.0m, *Medi Positano* $32.0m, *Presinge* $29.25m. Fixtures *Intensity* to CNR $22,000, *XH Hope* to Cargill $23,000, coal DBCT-Vizag $25.60/t (SAIL). Charts 03, 05, 06, 12-14 |
 > | **Cash reserve** | **5 (2%)** | Dry powder for when tanker secondhand prices fall back below newbuild. Equals five months of fleet OPEX ($36,560/day). Fixed charters add about $2.7m a month | OPEX series 540687 / 540689 / 540683; scrap price 542047. Charts 01, 04 |
-> | **Total** | **250 (100%)** | Tankers 70%, dry bulk 28%, cash 2%. 60% of ship-days fixed = 65% of base income. Earnings before OPEX: Bear **17.9%**, Base **19.9%**, Bull **21.3%** | MT6102_Earnings_Model.xlsx. Chart 11 |
+> | **Total** | **250 (100%)** | Tankers 70%, dry bulk 28%, cash 2%. 60% of ship-days fixed = 65% of base income. Earnings before OPEX: Bear **17.9%**, Base **19.9%**, Bull **23.7%** | MT6102_Earnings_Model.xlsx. Chart 11 |
 >
-> *Every price and rate in this table is the last transacted sale or fixture on Clarksons SIN (extracted 12 Sep 2026; supply data 10 Oct 2026).*
+> *Every price and rate in this table is the last transacted sale or fixture on Clarksons SIN (extracted 12 Sep 2026; spot anchors week of 9 Oct 2026; supply data 10 Oct 2026).*
 
-**讲稿（CN）**（约 1 分 15 秒）：整个项目一张表讲完，顺序固定：钱怎么分，为什么这样分，什么数据支持。第一行，两艘 MR 成品油轮，一亿美元，占四成。为什么：它是五个船型里唯一买价低于新造价的，五年船龄 5,000 万，新船 5,200 万；成品油需求明年还涨 6.3%。数据：SIN 的 5 年龄价与新造价两条序列，加上 8 月 17 日 SUNCOR 按 30,000 美元一天租了一年的真实成交。第二行，一艘 Aframax，7,500 万，占三成。为什么：原油 Aframax 订单簿全场最低，8.4%，62 艘订单对 223 艘 20 年以上老船；而且市场上刚有人按 40,000 美元签了三年，我们照签。数据：订单簿序列、交付拆解表、Torm Genesis 那笔成交。第三行，两艘 Kamsarmax，7,000 万，占近三成。为什么：散货在复苏但没过热，BDI 三个月涨了四成，船价只比新船贵 9%；订单簿 13.5%，2027 年交付 171 艘对 618 艘老船；几内亚铝土矿出口涨了 29%。数据：BDI、订单簿、铝土矿三条序列，加上 8 月 10 日两笔日本造 Kamsarmax 的成交。第四行，现金 500 万，占 2%，等油轮船价回落时抄底，也够全船队 5 个月的营运成本。合计：油轮七成、散货近三成、现金 2%，六成船日已经锁定，最差情形也有 17.9%。
+**讲稿（CN）**（约 1 分 15 秒）：整个项目一张表讲完，顺序固定：钱怎么分，为什么这样分，什么数据支持。第一行，两艘 MR 成品油轮，一亿美元，占四成。为什么：它是五个船型里买价最接近重置成本的，九月五年船龄 5,000 万对新船 5,200 万，十月 5,200 万对 5,250 万，其他船型都贵过新船；成品油需求明年还涨 6.3%。数据：SIN 的 5 年龄价与新造价两条序列，加上 8 月 17 日 SUNCOR 按 30,000 美元一天租了一年的真实成交。第二行，一艘 Aframax，7,500 万，占三成。为什么：原油 Aframax 订单簿全场最低，8.4%，62 艘订单对 223 艘 20 年以上老船；而且市场上刚有人按 40,000 美元签了三年，我们照签。数据：订单簿序列、交付拆解表、Torm Genesis 那笔成交。第三行，两艘 Kamsarmax，7,000 万，占近三成。为什么：散货在复苏但没过热，BDI 三个月涨了四成，船价只比新船贵 9%；订单簿 13.5%，2027 年交付 171 艘对 618 艘老船；几内亚铝土矿出口涨了 29%。数据：BDI、订单簿、铝土矿三条序列，加上 8 月 10 日两笔日本造 Kamsarmax 的成交。第四行，现金 500 万，占 2%，等油轮船价回落时抄底，也够全船队 5 个月的营运成本。合计：油轮七成、散货近三成、现金 2%，六成船日已经锁定，最差情形也有 17.9%。
 
 **素材**：上表（可拆成左表右三个 tile：$250m / 19.9% / 17.9%）。如果版面放不下第四列，把"数据"列缩成序列号与成交船名，细节放附录 A3、A4。
 
@@ -57,9 +57,9 @@
 > | Cash reserve | counter-cyclical fund | **5** | | Buy the collapse |
 > | **Total** | | **250** | | |
 
-**讲稿（CN)**：资金怎么拆：船款 2.45 亿，现金 500 万。重点两处——第一，每艘船右边那列写着定价依据的真实成交船名和日期，董事会可以逐笔核对；第二，五艘全部日本/韩国建造，这不是偏好，是对 10 月底美中港口费休战到期的保险。
+**讲稿（CN)**：资金怎么拆：船款 2.45 亿，现金 500 万。重点两处——第一，每艘船右边那列写着定价依据的真实成交船名和日期，董事会可以逐笔核对；第二，五艘全部日本/韩国建造，这不是偏好，是对 11 月 10 日前后美中港口费暂停到期的保险。
 
-**素材**：上表 + 底部一行小字 "All vessels Japan/Korea-built — immune to US Section 301 port fees (truce expires 30 Oct 2026)"。
+**素材**：上表 + 底部一行小字 "All vessels Japan/Korea-built — immune to US Section 301 port fees (suspension expires around 10 Nov 2026)"。
 
 ---
 
@@ -67,7 +67,7 @@
 
 **正文（EN）**
 > **Buy Secondhand — Not Charter-in, Not Newbuild**
-> - **Charter-in rejected:** period rates are at cycle highs — chartering in locks a *cost* at the top (1-yr TC Suezmax $90k vs 3-yr $46k: the market itself prices today's rates as temporary)
+> - **Charter-in rejected:** period rates are at cycle highs — chartering in locks a *cost* at the top (1-yr TC Suezmax $140k vs 3-yr $64k in October: the market itself prices today's rates as temporary)
 > - **Newbuild rejected:** earliest delivery 2028+, straight into the delivery wave (crude fleet growth 3.8% → **7.7%** by 2028); newbuild prices also at decade highs
 > - **5-yr-old Eco chosen over 10-yr-old:** cost per remaining service year is *lower* (MR: $2.50m/yr vs $2.67m/yr), and Eco spec protects resale value under EU ETS / IMO carbon rules
 
