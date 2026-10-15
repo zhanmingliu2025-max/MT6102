@@ -9,9 +9,16 @@ import numpy as np
 
 ROOT = Path(__file__).resolve().parents[1]; RAW = ROOT / "data/raw"; OUT = ROOT / "charts"
 BLUE, ORANGE, AQUA, YELLOW, GRAY, INK, INK2, GRID = "#2a78d6", "#eb6834", "#1baf7a", "#eda100", "#b9b8b1", "#1a1a19", "#5f5e58", "#e7e6e2"
+import os
+DECK = os.environ.get("CHART_STYLE") == "deck"
+if DECK:
+    BLUE, ORANGE, AQUA, YELLOW, GRAY, INK, INK2, GRID = "#142B4F", "#C8102E", "#4A6FA5", "#9FB6D9", "#C9D6EA", "#1A2433", "#5A6472", "#E3E8EF"
+    OUT = ROOT / "charts_deck"; OUT.mkdir(exist_ok=True)
 plt.rcParams.update({"figure.dpi": 200, "savefig.dpi": 200, "font.size": 10, "axes.edgecolor": GRID, "axes.linewidth": 0.8,
     "axes.grid": True, "grid.color": GRID, "grid.linewidth": 0.7, "axes.axisbelow": True, "xtick.color": INK2, "ytick.color": INK2,
     "text.color": INK, "axes.labelcolor": INK2, "font.family": "DejaVu Sans", "figure.facecolor": "white", "axes.facecolor": "white"})
+if DECK:
+    plt.rcParams["font.family"] = "Carlito"
 def rd(name):
     with open(RAW / name, encoding="utf-8-sig") as f: return list(csv.reader(f))
 def style(ax, ylab=""):

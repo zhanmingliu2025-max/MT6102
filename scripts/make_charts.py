@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""MT6102 chart pack — all data from data/raw/*.csv (Clarksons SIN, 12 Sep 2026)."""
+"""MT6102 chart pack: all data from data/raw/*.csv (Clarksons SIN, 12 Sep 2026)."""
 import pandas as pd
 import matplotlib
 matplotlib.use("Agg")
@@ -15,6 +15,13 @@ OUT.mkdir(exist_ok=True)
 BLUE, ORANGE, AQUA, YELLOW, MAGENTA, GREEN, VIOLET, RED = (
     "#2a78d6", "#eb6834", "#1baf7a", "#eda100", "#e87ba4", "#008300", "#4a3aa7", "#e34948")
 GRAY, INK, INK2, GRID = "#b9b8b1", "#1a1a19", "#5f5e58", "#e7e6e2"
+import os
+DECK = os.environ.get("CHART_STYLE") == "deck"
+if DECK:  # template palette for the slide deck (navy, red accent, slate, light blues)
+    BLUE, ORANGE, AQUA, YELLOW, MAGENTA, GREEN, VIOLET, RED = (
+        "#142B4F", "#C8102E", "#4A6FA5", "#9FB6D9", "#7A8CA8", "#2E5E8C", "#5A6472", "#C8102E")
+    GRAY, INK, INK2, GRID = "#C9D6EA", "#1A2433", "#5A6472", "#E3E8EF"
+    OUT = ROOT / "charts_deck"; OUT.mkdir(exist_ok=True)
 
 plt.rcParams.update({
     "figure.dpi": 200, "savefig.dpi": 200, "font.size": 10,
@@ -24,6 +31,8 @@ plt.rcParams.update({
     "axes.labelcolor": INK2, "axes.titlesize": 12,
     "font.family": "DejaVu Sans", "figure.facecolor": "white", "axes.facecolor": "white",
 })
+if DECK:
+    plt.rcParams["font.family"] = "Carlito"
 
 def rd(fid):
     df = pd.read_csv(RAW / f"{fid}_20260912.csv")
@@ -68,7 +77,7 @@ for i, v in enumerate(vals):
 ax2.set_title("Steep backwardation: the market\nprices the spike as temporary", loc="left", fontweight="bold")
 style(ax2, "$'000 per day")
 ax2.set_ylim(0, 385)
-fig.suptitle("Textbook Peak Signals — Suezmax", x=0.01, y=1.03, ha="left", fontsize=14, fontweight="bold")
+fig.suptitle("Textbook Peak Signals: Suezmax", x=0.01, y=1.03, ha="left", fontsize=14, fontweight="bold")
 finish(fig, "01_peak_signals_suezmax.png", SRC + " [87302, 53070, 48989, 49108, 51116/531088]. Extracted 12 Sep 2026.")
 
 # ---------- 2. Supply shock: earnings vs volumes ----------
@@ -99,7 +108,7 @@ ax2.axhline(0, color=GRAY, lw=0.8)
 ax2.set_ylim(-9.6, 8.8)
 ax2.set_title("Seaborne crude volumes (% y/y)", loc="left", fontweight="bold")
 style(ax2)
-fig.suptitle("A Supply Shock, Not a Demand Boom — volumes fell 7.3% while earnings quintupled",
+fig.suptitle("A Supply Shock, Not a Demand Boom: volumes fell 7.3% while earnings quintupled",
              x=0.01, y=1.03, ha="left", fontsize=14, fontweight="bold")
 finish(fig, "02_supply_shock.png", SRC + " [546177, 98801]. Extracted 12 Sep 2026.")
 
@@ -114,7 +123,7 @@ cols = [BLUE if inport else GRAY for _, _, inport in segs]
 ax.barh([s[0] for s in segs], [s[1] for s in segs], color=cols, height=0.62, zorder=3)
 for i, (_, v, _) in enumerate(segs):
     ax.text(v + 0.5, i, f"{v:.1f}%", va="center", fontsize=9, fontweight="bold")
-ax.set_title("Orderbook as % of Fleet, Sep 2026 — our segments (blue) carry the least supply risk",
+ax.set_title("Orderbook as % of Fleet, Sep 2026: our segments (blue) carry the least supply risk",
              loc="left", fontweight="bold", fontsize=12)
 style(ax)
 ax.grid(axis="y", visible=False)
@@ -135,7 +144,7 @@ ax.annotate("7.7%", xy=(pd.Timestamp("2028-01-01"), 7.717), xytext=(-46, -6), te
 ax.set_ylim(top=8.6)
 ax.legend(frameon=False, loc="upper left", fontsize=9)
 ax.axhline(0, color=GRAY, lw=0.8)
-ax.set_title("Crude Tanker Fleet Growth Accelerates into 2028 — the delivery wave meets any ceasefire",
+ax.set_title("Crude Tanker Fleet Growth Accelerates into 2028: the delivery wave meets any ceasefire",
              loc="left", fontweight="bold", fontsize=12)
 style(ax, "% per year")
 finish(fig, "04_fleet_growth.png", SRC + " [534497, 534499, 534495]. Extracted 12 Sep 2026.")
@@ -169,7 +178,7 @@ ax.bar(gm["Date"], gm.iloc[:, 2], width=24, color="#9ec5f4", zorder=3)
 roll = gm.iloc[:, 2].rolling(12).mean()
 ax.plot(gm["Date"], roll, color=BLUE, lw=2.2, label="12-month average")
 ax.legend(frameon=False, loc="upper left", fontsize=9)
-ax.set_title("Guinea Bauxite Exports (Mt/month) — +29% y/y Jan-Apr 2026, plus Simandou iron ore ramp-up",
+ax.set_title("Guinea Bauxite Exports (Mt/month): +29% y/y Jan-Apr 2026, plus Simandou iron ore ramp-up",
              loc="left", fontweight="bold", fontsize=12)
 style(ax, "Mt per month")
 finish(fig, "06_bauxite_guinea.png", SRC + " [557125]; Clarksons SIN News Article 224049. Extracted 12 Sep 2026. Sep-26 partial month.")
@@ -181,11 +190,11 @@ fig, ax = plt.subplots(figsize=(9, 4.2))
 cols = [BLUE if r < 1 else ("#86b6ef" if r < 1.15 else ORANGE) for _, r in ratios]
 ax.bar([n for n, _ in ratios], [r for _, r in ratios], color=cols, width=0.58, zorder=3)
 ax.axhline(1.0, color=INK2, lw=1.2, ls="--")
-ax.text(4.45, 1.005, "Replacement cost (newbuild parity)", fontsize=8, color=INK2, ha="right")
+ax.text(-0.45, 1.012, "Replacement cost (newbuild parity)", fontsize=8, color=INK2, ha="left")
 for i, (_, r) in enumerate(ratios):
     ax.text(i, r + 0.015, f"{r:.2f}x", ha="center", fontsize=10, fontweight="bold")
 ax.set_ylim(0.8, 1.32)
-ax.set_title("5-yr-old Price ÷ Newbuild Price, Sep 2026 — MR is the only segment below replacement cost",
+ax.set_title("5-yr-old Price ÷ Newbuild Price, Sep 2026: MR is the only segment at or below replacement cost (0.99x in Oct)",
              loc="left", fontweight="bold", fontsize=12)
 style(ax)
 ax.grid(axis="x", visible=False)
@@ -204,7 +213,7 @@ ax.legend(frameon=False, loc="upper left", fontsize=9)
 ax.annotate("2026: volumes -7.3%,\naverage haul +3.3% to 5,643 miles", xy=(pd.Timestamp("2026-01-01"), 96),
             xytext=(-160, -42), textcoords="offset points", fontsize=9, color=INK,
             arrowprops=dict(arrowstyle="-", color=INK2, lw=0.8))
-ax.set_title("Crude Trade, Indexed (2019 = 100) — distance, not volume, is carrying demand",
+ax.set_title("Crude Trade, Indexed (2019 = 100): distance, not volume, is carrying demand",
              loc="left", fontweight="bold", fontsize=12)
 style(ax, "Index, 2019 = 100")
 finish(fig, "08_average_haul.png", SRC + " [98801, 534402]; haul = tonne-miles / tonnes (Week 5 method). Extracted 12 Sep 2026.")
@@ -214,12 +223,12 @@ l6 = rd("L6")
 m = l6["Date"] >= "2025-06-01"
 sub = l6.loc[m]
 fig, ax = plt.subplots(figsize=(9, 4.2))
-ax.plot(sub["Date"], sub.iloc[:, 3], color=BLUE, lw=2, label="Gulf of Aden — all deep sea cargo")
-ax.plot(sub["Date"], sub.iloc[:, 4], color=ORANGE, lw=2, label="Strait of Hormuz — crude tankers")
+ax.plot(sub["Date"], sub.iloc[:, 3], color=BLUE, lw=2, label="Gulf of Aden: all deep sea cargo")
+ax.plot(sub["Date"], sub.iloc[:, 4], color=ORANGE, lw=2, label="Strait of Hormuz: crude tankers")
 ax.legend(frameon=False, loc="lower left", fontsize=9)
 ax.text(pd.Timestamp("2026-03-25"), 40, "2-7 transits/week\n(near-closure)",
         fontsize=9, fontweight="bold", color=ORANGE)
-ax.set_title("Chokepoint Transits per Week — the disruption premium, quantified",
+ax.set_title("Chokepoint Transits per Week: the disruption premium, quantified",
              loc="left", fontweight="bold", fontsize=12)
 style(ax, "Vessels per week")
 finish(fig, "09_chokepoints.png", SRC + " [551286, 12792857]. Extracted 12 Sep 2026.")
@@ -236,7 +245,7 @@ ax.annotate("137m dwt", xy=(sub["Date"].iloc[-1], 137), xytext=(-58, 6), textcoo
             fontsize=9, fontweight="bold", color=BLUE)
 ax.text(pd.Timestamp("2025-05-01"), 44, "97m dwt = 20% of\ncrude tanker fleet",
         fontsize=9, fontweight="bold", color=ORANGE)
-ax.set_title("Sanctioned Fleet (million dwt) — effective supply withdrawn, and reversible",
+ax.set_title("Sanctioned Fleet (million dwt): effective supply withdrawn, and reversible",
              loc="left", fontweight="bold", fontsize=12)
 style(ax, "Million dwt")
 finish(fig, "10_sanctioned_fleet.png", SRC + " [12116108, 12110871]; SIN News Article 228241. Extracted 12 Sep 2026.")
@@ -256,7 +265,7 @@ for i in range(3):
 ax.set_xticks(x, sc, fontsize=9)
 ax.legend(frameon=False, loc="upper left", fontsize=9)
 ax.set_ylim(0, 70)
-ax.set_title("12-Month Earnings on USD 250m — 60% of days fixed to first-class charterers caps the downside at 17.9%",
+ax.set_title("12-Month Earnings on USD 250m: 60% of days fixed to first-class charterers caps the downside at 17.9%",
              loc="left", fontweight="bold", fontsize=11.5)
 style(ax, "$ million")
 ax.grid(axis="x", visible=False)
