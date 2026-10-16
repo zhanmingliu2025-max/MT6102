@@ -159,10 +159,10 @@ pres.addSection({ title: "Part 1 The decision" });
   base(s, "Part 1 · The decision", "Buy secondhand, not charter-in, not newbuild",
     "SIN series 47130 / 542021 / 540721 / 38981 / 87302 (5-year-old prices) and 71267 / 23357 / 70747 / 35905 / 53070 (newbuild prices), September 2026; 10-year-old prices dataset L3.");
   panel(s, 0.55, 1.6, 5.9, 1.5, "Charter-in rejected", "Period rates sit at cycle highs, so chartering in locks a cost at the top. A chartered-in MR costs $30,000/day and earns $27,000 in the base case and $22,950 in the bear case. Only the bull case pays, and there is no asset to resell.", { bodySize: 11 });
-  panel(s, 0.55, 3.25, 5.9, 1.5, "Newbuild rejected", "Yards are full to 2029, so the earliest delivery lands inside the 2027 to 2028 delivery wave. Newbuild prices are at decade highs and a newbuild earns nothing during the 12-month window.", { bodySize: 11 });
+  panel(s, 0.55, 3.25, 5.9, 1.5, "Newbuild rejected", "Building a ship takes 1.5 to 3 years from contract, whichever yard builds it, so a newbuild earns nothing in our 12-month window and arrives after the 2027 to 2028 delivery wave. Newbuild prices are also at decade highs.", { bodySize: 11 });
   panel(s, 0.55, 4.9, 5.9, 1.65, "5-year-old Eco chosen over 10-year-old", "Cost per remaining service year is lower (MR $2.50m against $2.67m a year), the ships are Eco specification for EU ETS and FuelEU, and 5-year-old prices sit at or just above newbuild in our segments, while Suezmax trades at 1.44 times newbuild.", { bodySize: 11 });
   img(s, "07_replacement_cost.png", 6.7, 1.6, 6.1, 4.95);
-  s.addNotes("The brief allows buying or chartering. We costed all three options. Chartering in locks a cost at the top of the cycle. Newbuilds cannot deliver inside the window and arrive with the wave. Five-year-old Eco ships are cheaper per remaining year than 10-year-old ships and are the only tonnage at or near replacement cost.");
+  s.addNotes("The brief allows buying or chartering. We costed all three options. Chartering in locks a cost at the top of the cycle. A newbuild takes 1.5 to 3 years to build whichever yard takes the order, so it earns nothing inside the window. Five-year-old Eco ships are cheaper per remaining year than 10-year-old ships and are the only tonnage at or near replacement cost.");
 }
 {
   const s = light("Part 1 The decision");
