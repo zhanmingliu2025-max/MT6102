@@ -1,0 +1,8 @@
+@page{size:A4 landscape;margin:12mm 13mm 14mm 13mm;}
+body{font-size:9.5pt;}
+table{font-size:8.3pt;}
+table:nth-of-type(1) th:nth-child(1){width:3.5%;} table:nth-of-type(1) th:nth-child(2){width:9%;} table:nth-of-type(1) th:nth-child(3){width:13%;}
+table:nth-of-type(1) th:nth-child(4){width:34%;} table:nth-of-type(1) th:nth-child(5){width:16%;} table:nth-of-type(1) th:nth-child(6){width:15%;}
+table:nth-of-type(1) th:nth-child(7){width:6%;} table:nth-of-type(1) th:nth-child(8){width:3.5%;}
+table:nth-of-type(2) th:nth-child(1){width:6%;} table:nth-of-type(2) th:nth-child(2){width:24%;} table:nth-of-type(2) th:nth-child(3){width:46%;} table:nth-of-type(2) th:nth-child(4){width:24%;}
+table:nth-of-type(3) th:nth-child(1){width:22%;} table:nth-of-type(3) th:nth-child(2){width:12%;} table:nth-of-type(3) th:nth-child(3){width:66%;}
