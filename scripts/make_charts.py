@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """MT6102 chart pack: all data from data/raw/*.csv (Clarksons SIN, 12 Sep 2026)."""
 import pandas as pd
+import numpy as np
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
@@ -54,31 +55,40 @@ def finish(fig, name, source):
 
 SRC = "Source: Clarksons Research, Shipping Intelligence Network"
 
-# ---------- 1. Textbook Peak: Suezmax ----------
-a3, a6, b3, b6 = rd("A3"), rd("A6"), rd("B3"), rd("B6")
-fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(11, 4.2), gridspec_kw={"width_ratios": [1.6, 1]})
-m = a3["Date"] >= "2015-01-01"
-ax1.plot(a3.loc[m, "Date"], a3.loc[m].iloc[:, 1], color=BLUE, lw=2, label="5-yr-old secondhand")
-m6 = a6["Date"] >= "2015-01-01"
-ax1.plot(a6.loc[m6, "Date"], a6.loc[m6, a6.columns[3]], color=ORANGE, lw=2, label="Newbuilding")
+# ---------- 1. Textbook Peak: Suezmax (12 Sep extract plus 15 Oct re-pull) ----------
+a3, a6 = rd("A3"), rd("A6")
+fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(11, 4.2), gridspec_kw={"width_ratios": [1.5, 1]})
+h = a3[(a3["Date"] >= "2015-01-01") & (a3["Date"] < "2026-09-01")]
+sx = list(h["Date"]) + [pd.Timestamp("2026-09-01"), pd.Timestamp("2026-10-01")]
+sy = list(h.iloc[:, 1]) + [120, 130]          # Sep month-end 120, Oct 130 (re-pulled 15 Oct)
+nb = a6[a6["Date"] >= "2015-01-01"]
+nx = list(nb["Date"]) + [pd.Timestamp("2026-10-01")]
+ny = list(nb[a6.columns[3]]) + [90]
+ax1.plot(sx, sy, color=BLUE, lw=2, label="5-yr-old secondhand")
+ax1.plot(nx, ny, color=ORANGE, lw=2, label="Newbuilding")
+ax1.scatter([pd.Timestamp("2026-10-01")], [130], color=BLUE, s=26, zorder=4)
 ax1.legend(frameon=False, loc="upper left", fontsize=9)
-ax1.annotate("$111m", xy=(a3["Date"].iloc[-1], 111), xytext=(-52, 2), textcoords="offset points",
+ax1.annotate("$130m (Oct)", xy=(pd.Timestamp("2026-10-01"), 130), xytext=(-78, 2), textcoords="offset points",
              fontsize=9, fontweight="bold", color=BLUE)
-ax1.annotate("$90m", xy=(a6["Date"].iloc[-1], 90), xytext=(4, -3), textcoords="offset points",
+ax1.annotate("$90m", xy=(pd.Timestamp("2026-10-01"), 90), xytext=(5, -4), textcoords="offset points",
              fontsize=9, fontweight="bold", color=ORANGE, annotation_clip=False)
-ax1.set_xlim(right=pd.Timestamp("2028-03-01"))
-ax1.set_title("Suezmax: secondhand 1.23x newbuild in Sep (1.44x by Oct)", loc="left", fontweight="bold")
+ax1.set_xlim(right=pd.Timestamp("2028-01-01")); ax1.set_ylim(35, 140)
+ax1.set_title("Suezmax: secondhand 1.44x newbuild in Oct (1.23x on 12 Sep)", loc="left", fontweight="bold")
 style(ax1, "$ million")
-bars = ["Spot earnings\n(avg, 11 Sep)", "1-yr TC\n(assessment)", "3-yr TC\n(assessment)"]
-vals = [335.9, 90.3, 46.3]
-ax2.bar(bars, vals, color=[BLUE, "#86b6ef", "#cde2fb"], width=0.62, zorder=3)
-for i, v in enumerate(vals):
-    ax2.text(i, v + 6, f"${v:.0f}k/day", ha="center", fontsize=9, fontweight="bold")
-ax2.set_title("Steep backwardation: the market\nprices the spike as temporary", loc="left", fontweight="bold")
-style(ax2, "$'000 per day")
-ax2.set_ylim(0, 385)
-fig.suptitle("Textbook Peak Signals: Suezmax", x=0.01, y=1.03, ha="left", fontsize=14, fontweight="bold")
-finish(fig, "01_peak_signals_suezmax.png", SRC + " [87302, 53070, 48989, 49108, 51116/531088]. Extracted 12 Sep 2026.")
+cats = ["Spot earnings", "1-yr TC", "3-yr TC"]
+sep = [335.9, 90.3, 46.3]; octv = [718.2, 140.3, 64.4]
+x = np.arange(3); w = 0.36
+ax2.bar(x - w / 2, sep, w, color=GRAY, label="September", zorder=3)
+ax2.bar(x + w / 2, octv, w, color=BLUE, label="October", zorder=3)
+for i in range(3):
+    ax2.text(x[i] - w / 2, sep[i] + 12, f"{sep[i]:.0f}k", ha="center", fontsize=8.5, color=INK2)
+    ax2.text(x[i] + w / 2, octv[i] + 12, f"{octv[i]:.0f}k", ha="center", fontsize=8.5, fontweight="bold")
+ax2.set_xticks(x, cats)
+ax2.legend(frameon=False, loc="upper right", fontsize=9)
+ax2.set_title("Backwardation steeper in October:\nspot far above 1-yr and 3-yr rates", loc="left", fontweight="bold")
+style(ax2, "$'000 per day"); ax2.set_ylim(0, 800)
+fig.suptitle("Textbook Peak Signals: Suezmax, September vs October", x=0.01, y=1.03, ha="left", fontsize=14, fontweight="bold")
+finish(fig, "01_peak_signals_suezmax.png", SRC + " [87302, 53070, 48989, 49108, 531088]. History to Aug from 12 Sep extract; Sep (month-end) and Oct re-pulled 15 Oct 2026. Earnings: weeks of 11 Sep and 9 Oct.")
 
 # ---------- 2. Supply shock: earnings vs volumes ----------
 c3, f1 = rd("C3"), rd("F1")
@@ -149,25 +159,38 @@ ax.set_title("Crude Tanker Fleet Growth Accelerates into 2028: the delivery wave
 style(ax, "% per year")
 finish(fig, "04_fleet_growth.png", SRC + " [534497, 534499, 534495]. Extracted 12 Sep 2026.")
 
-# ---------- 5. Dry bulk recovery ----------
-c1, a2, a5 = rd("C1"), rd("A2"), rd("A5")
-fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(11, 4.2))
-ax1.plot(c1["Date"], c1.iloc[:, 1], color=BLUE, lw=1.6)
-ax1.xaxis.set_major_locator(mdates.YearLocator())
-ax1.xaxis.set_major_formatter(mdates.DateFormatter("%Y"))
-ax1.set_ylim(300, 4050)
-ax1.annotate("3,521 on 10 Sep (+41% in 3 months); 2,801 on 13 Oct", xy=(c1["Date"].iloc[-1], 3521), xytext=(-250, 12),
-             textcoords="offset points", fontsize=9, fontweight="bold", color=BLUE)
-ax1.set_title("Baltic Dry Index, daily", loc="left", fontweight="bold")
+# ---------- 5. Dry bulk recovery (12 Sep extract plus 15 Oct re-pull) ----------
+c1 = rd("C1")
+fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(11, 4.2), gridspec_kw={"width_ratios": [1.35, 1]})
+c = c1[c1["Date"] >= "2024-01-01"]
+ax1.plot(c["Date"], c.iloc[:, 1], color=BLUE, lw=1.5, label="BDI daily, to 10 Sep")
+ox = [c["Date"].iloc[-1], pd.Timestamp("2026-10-06"), pd.Timestamp("2026-10-13")]
+oy = [c.iloc[-1, 1], 3002, 2801]
+ax1.plot(ox, oy, color=ORANGE, lw=1.4, ls=":", label="October readings")
+ax1.scatter(ox[1:], oy[1:], color=ORANGE, s=24, zorder=4)
+ax1.annotate("3,521\n10 Sep", xy=(ox[0], 3521), xytext=(-62, 4), textcoords="offset points", fontsize=8.5, fontweight="bold", color=BLUE)
+ax1.annotate("2,801\n13 Oct", xy=(ox[2], 2801), xytext=(6, -22), textcoords="offset points", fontsize=8.5, fontweight="bold", color=ORANGE, annotation_clip=False)
+ax1.xaxis.set_major_locator(mdates.MonthLocator(bymonth=[1, 7]))
+ax1.xaxis.set_major_formatter(mdates.DateFormatter("%b %Y"))
+ax1.set_xlim(pd.Timestamp("2024-01-01"), pd.Timestamp("2026-12-15")); ax1.set_ylim(500, 4000)
+ax1.legend(frameon=False, loc="upper left", fontsize=9)
+ax1.set_title("Baltic Dry Index: strong, but 20% off the September high", loc="left", fontweight="bold")
 style(ax1, "Index points")
-ax2.plot(a2["Date"], a2.iloc[:, 1], color=BLUE, lw=2, label="Ultramax 63.5k 5-yr-old")
-m5 = a5["Date"] >= "2019-01-01"
-ax2.plot(a5.loc[m5, "Date"], a5.loc[m5].iloc[:, 1], color=ORANGE, lw=2, label="Kamsarmax 82k 5-yr-old")
+segs = ["MR", "Kamsarmax", "Aframax", "Suezmax"]
+sep = [50 / 52, 42 / 38.5, 85 / 75.5, 111 / 90]; octv = [52 / 52.5, 42 / 38.5, 85 / 76, 130 / 90]
+x = np.arange(4); w = 0.36
+ax2.bar(x - w / 2, sep, w, color=GRAY, label="September", zorder=3)
+ax2.bar(x + w / 2, octv, w, color=BLUE, label="October", zorder=3)
+for i in range(4):
+    ax2.text(x[i] - w / 2, sep[i] + 0.012, f"{sep[i]:.2f}", ha="center", fontsize=8.5, color=INK2)
+    ax2.text(x[i] + w / 2, octv[i] + 0.012, f"{octv[i]:.2f}", ha="center", fontsize=8.5, fontweight="bold")
+ax2.axhline(1.0, color=INK2, lw=1.1, ls="--", label="Replacement cost = 1.0")
+ax2.set_xticks(x, segs); ax2.set_ylim(0.8, 1.55)
 ax2.legend(frameon=False, loc="upper left", fontsize=9)
-ax2.set_title("Secondhand values: rising gradually", loc="left", fontweight="bold")
-style(ax2, "$ million")
-fig.suptitle("Dry Bulk: Recovery Under Way, Not Overheated", x=0.01, y=1.03, ha="left", fontsize=14, fontweight="bold")
-finish(fig, "05_drybulk_recovery.png", SRC + " [17259, 542021, 540721]. Extracted 12 Sep 2026.")
+ax2.set_title("5-yr-old price ÷ newbuild price", loc="left", fontweight="bold")
+style(ax2, "ratio")
+fig.suptitle("Buy Value: Dry Bulk Recovering, MR at Replacement Cost (September vs October)", x=0.01, y=1.03, ha="left", fontsize=14, fontweight="bold")
+finish(fig, "05_drybulk_recovery.png", SRC + " [17259; 47130/71267, 540721/70747, 38981/35905, 87302/53070]. BDI daily to 10 Sep from 12 Sep extract; 6 and 13 Oct readings and October prices re-pulled 15 Oct 2026.")
 
 # ---------- 6. Guinea bauxite ----------
 f5 = rd("F5")

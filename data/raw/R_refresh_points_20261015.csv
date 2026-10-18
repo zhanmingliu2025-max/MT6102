@@ -1,0 +1,16 @@
+item,series_id,snapshot_12Sep_value,snapshot_12Sep_date,october_value,october_date,unit,source
+Suezmax 5-yr-old secondhand price,87302,111,2026-09 (mid-month extract),130,2026-10,$m,SIN re-pull 15 Oct 2026 (数据刷新核对_20261015); Sep month-end value revised to 120
+Suezmax newbuild price,53070,90,2026-09,90,2026-10,$m,same
+Suezmax 1-yr TC,48989,90250,2026-09,140250,2026-10,$/day,same
+Suezmax 3-yr TC,49108,46250,2026-09,64375,2026-10,$/day,same
+Suezmax c2010 average earnings,531088,335925,week of 2026-09-11,718165,week of 2026-10-09,$/day,same
+MR 5-yr-old secondhand price,47130,50,2026-09,52,2026-10,$m,same
+MR newbuild price,71267,52,2026-09,52.5,2026-10,$m,same
+Kamsarmax 5-yr-old secondhand price,540721,42,2026-09,42,2026-10,$m,same
+Kamsarmax newbuild price,70747,38.5,2026-09,38.5,2026-10,$m,same
+Aframax 5-yr-old secondhand price,38981,85,2026-09,85,2026-10,$m,same
+Aframax newbuild price,35905,75.5,2026-09,76,2026-10,$m,same
+Baltic Dry Index,17259,3521,2026-09-10,3002;2801,2026-10-06;2026-10-13,index,same
+Kamsarmax c2015 Eco earnings,533288,24484,week of 2026-09-11,23389,week of 2026-10-09,$/day,same
+MR clean c2015 Eco earnings,543759,35804,week of 2026-09-11,53741,week of 2026-10-09,$/day,same
+Hormuz crude tanker transits,12792857,2 to 7 a week,Aug to Sep 2026,6,week of 2026-10-09,ships/week,same

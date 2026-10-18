@@ -287,7 +287,7 @@ pres.addSection({ title: "Part 4 Market data and news" });
 {
   const s = light("Part 4 Market data and news");
   base(s, "Part 4 · Market data and news", "Skip Suezmax: three peak signals, all louder in October",
-    "SIN series 87302 / 53070 (5-year-old and newbuild prices), 48989 / 49108 (1-year and 3-year TC), 531088 (earnings), dataset L6 (Hormuz transits), L11 (sanctioned fleet); news #221824, #227050, #228241. Chart shows September data; October values in the tiles.");
+    "SIN series 87302 / 53070 (5-year-old and newbuild prices), 48989 / 49108 (1-year and 3-year TC), 531088 (earnings), dataset L6 (Hormuz transits), L11 (sanctioned fleet); news #221824, #227050, #228241. Chart: grey = 12 Sep extract, navy = October re-pull of 15 Oct 2026.");
   img(s, "01_peak_signals_suezmax.png", 0.55, 1.6, 7.9, 4.95);
   stat(s, 8.7, 1.6, 4.05, "1.44x", "5-year-old Suezmax against newbuild in October ($130m against $90m); 1.23x in September. Secondhand above replacement cost is the textbook over-trading signal.", { h: 1.55, valueSize: 24 });
   stat(s, 8.7, 3.3, 4.05, "$140k vs $64k", "1-year against 3-year TC in October. Spot earnings $718,165/day. The market itself prices today's rates as temporary.", { h: 1.55, valueSize: 22 });
@@ -297,10 +297,10 @@ pres.addSection({ title: "Part 4 Market data and news" });
 {
   const s = light("Part 4 Market data and news");
   base(s, "Part 4 · Market data and news", "Buy value: dry bulk is recovering, MR sits at replacement cost",
-    "SIN series 17259 (BDI, daily to 13 Oct 2026), 542021 / 540721 (5-year-old bulker prices), 47130 / 71267 (MR prices); news #225971, #228048, #219145, #191021.");
+    "SIN series 17259 (BDI daily to 10 Sep, plus 6 and 13 Oct readings), 5-year-old and newbuild prices 47130 / 71267, 540721 / 70747, 38981 / 35905, 87302 / 53070 (Sep extract against Oct re-pull); news #225971, #228048, #219145, #191021.");
   img(s, "05_drybulk_recovery.png", 0.55, 1.6, 7.9, 4.95);
   stat(s, 8.7, 1.6, 4.05, "2,801", "BDI on 13 Oct, down 20% from the 3,521 peak of 10 Sep. Strong but off the high: the recovery stage, not the peak.", { h: 1.55, valueSize: 24, color: NAVY });
-  stat(s, 8.7, 3.3, 4.05, "1.09x", "5-year-old Kamsarmax against newbuild ($42m against $38.5m). A 9% premium, against 44% for Suezmax.", { h: 1.55, valueSize: 24, color: NAVY });
+  stat(s, 8.7, 3.3, 4.05, "1.09x", "5-year-old Kamsarmax against newbuild ($42m against $38.5m), unchanged from September. A 9% premium, against 44% for Suezmax.", { h: 1.55, valueSize: 24, color: NAVY });
   stat(s, 8.7, 5.0, 4.05, "0.99x", "5-year-old MR against newbuild in October (0.96x in September). The lowest ratio of the five segments: we buy at replacement cost.", { h: 1.55, valueSize: 24, color: NAVY });
   s.addNotes("Dry bulk prices are rising gently while rates have come off the September high. MR is at replacement cost, which is where we want to buy. We are honest about the MR orderbook at 18% of dwt and offset it with the price we pay and with demand growth.");
 }
