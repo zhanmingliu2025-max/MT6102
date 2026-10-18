@@ -5,3 +5,11 @@
 3. 输出 `MT6102_Investment_Proposal.pptx`，复制为仓库根目录的 `MT6102_Group_Presentation.pptx`。
 
 页面与图表、讲稿的对应关系见《PPT页面清单》；每页的 speaker notes 已写入 pptx 备注栏。
+
+## 2026-10-18 起的工作版本
+
+仓库根目录的 `MT6102_Group_Presentation.pptx` 现在是小组的工作版本（组员已改第 14 至 16 页），不再由 `make_deck.js` 直接生成。重新跑 `make_deck.js` 会丢掉组员的修改，所以以后只在 pptx 上小改。
+
+第 1 至 9 页的优化用 `scripts/deck_polish/` 完成：解压 pptx，运行
+`python3 -I scripts/deck_polish/apply.py <解压目录> scripts/deck_polish scripts/deck_polish/notes_slides_1_9.json`，
+再从解压目录内部 `zip -Xr` 打包。脚本按原文逐字匹配，原文对不上就报错，不会悄悄改错页；第 10 至 35 页不动。

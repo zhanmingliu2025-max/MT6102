@@ -1,6 +1,6 @@
 # PPT 页面清单（与 MT6102_Group_Presentation.pptx 逐页对应：正文 24 页 + 附录 11 页）
 
-> 本清单按已生成的 pptx 逐页核对（2026-10-16）。页码即 pptx 页码。图表编号指 `charts_deck/` 目录的文件（模板配色版；`charts/` 为同一图的蓝橙配色版）。每页的讲稿要点已写入 pptx 的备注栏；第 1 至 8 页的完整演讲稿见《演讲稿_第1至9页》。
+> 本清单按 pptx 逐页核对（2026-10-16；第 1 至 9 页按 10 月 18 日优化版更新，第 14 至 16 页为组员修改版）。页码即 pptx 页码。图表编号指 `charts_deck/` 目录的文件（模板配色版；`charts/` 为同一图的蓝橙配色版）。每页的讲稿要点已写入 pptx 的备注栏；第 1 至 9 页的完整演讲稿见《演讲稿_第1至9页》。
 > 数字口径：价格 2026-09-12 提取，牛市腿 2026-10-09 当周，供给 2026-10-10；10 月 20 日至 26 日终版刷新后只改数字。
 > 时长合计 20:00；附录不计时，问答时调用。
 
@@ -8,15 +8,15 @@
 
 | 页 | 部分 | 标题（英文） | 讲什么（讲稿要点） | 页面上有什么 | 来源行 | 主讲 | 时长 |
 |---|---|---|---|---|---|---|---|
-| 1 | 开场 | USD 250 Million Shipping Investment Proposal | 我们是谁；董事会任务；一句话结论：skip the peak, buy value, lock income；五艘船、三锁两现货、少量现金；所有数字来自 SIN 真实成交 | 深蓝封面；副标题；组号与成员行（待填姓名学号）；数据声明一行 | Clarksons SIN，2026-09-12 提取，2026-10-15 核对，供给 2026-10-10 | 定价组 A | 0:30 |
-| 2 | 开场 | How the proposal is built | 三个固定问题：怎么分、为什么、什么数据；七个部分按此顺序；链接语"先看决策" | 七行编号议程（红圈数字、黑体标题、灰色说明） | 无 | 定价组 A | 0:30 |
-| 3 | 第 1 部分 决策 | Where the USD 250m goes, why, and the data behind it | 四行分配各讲"分多少、为什么、数据"：MR 1 亿（40%）0.99 倍重置成本、+6.3%、即期 53,741；Aframax 7,500 万（30%）订单簿 8.4%、62 对 223、三年 40,000；Kamsarmax 7,000 万（28%）复苏未过热、溢价 9%、铝土矿 +29%；现金 500 万（2%）；合计 70/28/2，锁定 60%，17.9 / 19.9 / 23.7 | 四列表（分配、金额占比、理由、数据），合计行浅蓝 | 序列 47130、71267、534456、17259 等；成交 PS Imabari、Torm Genesis、Aquavita Aim | 定价组 A | 1:15 |
-| 4 | 第 1 部分 决策 | Capital allocation: five ships and one cash line, exactly USD 250m | 逐船买价与对标成交；船款 2.45 亿加现金 500 万；融资一句话（全股权，日后可贷 60% 至 80%）；全部日韩建造，港口费暂停 11 月 10 日前后到期 | 五船加合计的分配表；下方两张卡片：融资说明、日韩建造 | SIN S&P Register 与评估序列 47130（10 月评估 5,200 万） | 定价组 A | 0:30 |
-| 5 | 第 1 部分 决策 | Buy secondhand, not charter-in, not newbuild | 三条路两类船都算过：租入只赚薄差价且风险不对称（Kamsarmax 租 22,000 赚 23,000，最好 +35 万、最坏 −319 万；MR 租 30,000 赚 27,000），几乎不用资本，没有资产；新造要 1.5 到 3 年，窗口内零收入，到手时已在交付潮之后；5 年龄 Eco 每剩余年成本更低且贴近重置成本 | 左三张卡片；右图 07（五船型 5 年龄价对新造价） | 序列 47130/542021/540721/38981/87302 对 71267/23357/70747/35905/53070；L3 | 定价组 A | 0:45 |
-| 6 | 第 1 部分 决策 | Which trades our ships go into | 四条贸易各一句理由：成品油炼厂东移拉长运距；Aframax 整租三年卖确定性；铝土矿几内亚到中国最长航线；粮食四季度旺季后转铝土矿与煤 | 四张贸易卡片（船、航线斜体红字、理由） | 序列 98802/534403、534456、557125、534400/547349；新闻 #224049、#227870、#191021 | 定价组 A | 0:30 |
-| 7 | 第 2 部分 定价 | Pricing basis I: secondhand prices from last transacted sales | 六笔二手成交：Southern Reverence、Pusaka Borneo 各 7,500 万；Aquavita Aim 3,800 万；Medi Positano 3,200 万；Presinge 2,925 万对照（275 万价差即港口费保险）；MR 评估 5,000 万（10 月 5,200 万） | 表 A（6 行）；下方一行小结卡片 | SIN S&P Register，2026-09-12，截图存档 | 定价组 B | 0:40 |
-| 8 | 第 2 部分 定价 | Pricing basis II: time-charter rates from last transacted fixtures | 五笔期租逐一对应五艘船：PS Imabari 30,000、Challenge Pollux 27,000、Torm Genesis 三年 40,000（高亮）、Intensity 22,000、XH Hope 23,000；10 月 MR 一年期评估已到 43,000，锁定腿有上修空间 | 表 B（5 行，Torm Genesis 行浅蓝）；两张卡片：租家资质、10 月刷新 | SIN Fixtures Register（Timecharter）；序列 541552 | 定价组 B | 0:40 |
-| 9 | 第 2 部分 定价 | Pricing basis III: spot freight rates from last transacted voyage fixtures | 煤炭 DBCT 到 Vizag 25.60（换算约 27,400/天）、纽卡斯尔到韩国 23.21；MR 波罗的海到美湾 WS105、新加坡到印尼 120 万包干；对照 Suezmax WS210、WS388；三类价格 17 笔成交全部 last done | 表 C（6 行，后两行灰色对照）；小结卡片 | SIN Fixtures Register（Voyage）；Excel Voyage_TCE 表 | 定价组 B | 0:40 |
+| 1 | 开场 | USD 250 Million Shipping Investment Proposal | 我们是谁；董事会任务；一句话结论：skip the peak, buy value, lock income；五艘船、三锁两现货、500 万现金；基准 19.9%、熊市 17.9%（扣 OPEX 前）；买价与租金来自 SIN 真实成交，MR 买价用 SIN 评估 | 深蓝封面；副标题；结果行（19.9% / 17.9% 白色加粗）；组号与成员行（待填姓名学号）；数据声明一行 | Clarksons SIN，2026-09-12 提取，2026-10-15 核对，供给 2026-10-10 | 定价组 A | 0:30 |
+| 2 | 开场 | Seven parts, in the order of the brief | 三个固定问题：怎么分、为什么、什么数据；七个部分按题目顺序，逐条对应 Brief 1 至 6；链接语"先看决策" | 七行编号议程（红圈数字、黑体标题、深色说明）；右侧灰色标签 Brief 1 and 2 至 Brief 6 | 无 | 定价组 A | 0:30 |
+| 3 | 第 1 部分 决策 | USD 250m: 70% tankers, 28% dry bulk, 2% cash, 60% of days fixed | 四行分配各讲"分多少、为什么、数据"：MR 1 亿（40%）0.96 倍（9 月）/ 0.99 倍（10 月）重置成本、+6.3%，一艘锁一年、一艘留现货（一年期已计入预期回落，现货连续 8 周低于 20,000 即锁）；Aframax 7,500 万（30%）五个船型中订单簿最低 8.4%、62 对 223、三年 40,000，Suezmax 1.44 倍对 Aframax 1.12 倍；Kamsarmax 7,000 万（28%）强势但离开 9 月高点、溢价 9%、铝土矿 +29%；现金 500 万（2%）接近五个月 OPEX；合计 70/28/2，锁三艘是 2010 年以来压力测试守住 15% 的最少船数，情景 17.9 / 19.9 / 23.7，期望 20.0 | 四列表（分配、金额占比、理由、数据），关键数字加粗，合计行浅蓝 | 序列 47130、71267、534456、17259 等；成交 PS Imabari、Torm Genesis、Aquavita Aim | 定价组 A | 1:15 |
+| 4 | 第 1 部分 决策 | Capital allocation: USD 245m in five ships, USD 5m in cash | 逐船买价与对标成交（MR 对标 SIN 评估）；船款 2.45 亿加现金 500 万；全股权，日后可贷 60% 至 80%；日韩建造、非中国船东，不付 Section 301 港口费，暂停 11 月 10 日前后到期 | 五船加合计的分配表（买价红色加粗）；下方两张卡片：All equity、Japan or Korea built | SIN S&P Register 与评估序列 47130（10 月评估 5,200 万） | 定价组 A | 0:30 |
+| 5 | 第 1 部分 决策 | Buy secondhand: charter-in earns little, newbuild arrives too late | 三条路两类船都算过：租入只赚薄差价（Kamsarmax 租 22,000 赚 23,000，基准 +35 万、按 2025 年均值 −319 万；MR 租 30,000 赚 27,000，亏 105 万），2.5 亿大半闲置，没有资产；新造要 1.5 到 3 年，窗口内零收入还要付进度款；我们的船型 5 年龄价 0.96 至 1.13 倍新造，Suezmax 1.23 倍（10 月 1.44 倍）；5 年龄 MR 每剩余年 250 万对 10 年龄 267 万 | 左三张卡片（红色标题）；右图 07（五船型 5 年龄价对新造价） | 序列 47130/542021/540721/38981/87302 对 71267/23357/70747/35905/53070；L3 | 定价组 A | 0:45 |
+| 6 | 第 1 部分 决策 | Four trades, each backed by demand growth or a fixed charter | 四条贸易各一句理由：成品油 2027 年 +6.3%、吨海里 +6.5%、运距 2019 至 2024 年 +19%；Aframax 三年 40,000 穿过交付潮（原油 Aframax 订单簿 8.4%，含 LR2 为 20.8%）；Kamsarmax #1 一年 22,000，铝土矿或煤炭由租家安排；Kamsarmax #2 四季度粮食，BDI 连续 8 周低于 2,000 即锁 | 四张贸易卡片（红色标题、灰色斜体航线、14 号正文） | 序列 98802/534403、534456、557125、534400/547349；新闻 #224049、#227870、#191021 | 定价组 A | 0:30 |
+| 7 | 第 2 部分 定价 | Pricing basis I: last transacted sales, plus one SIN assessment | 五笔二手成交加一个评估：Southern Reverence、Pusaka Borneo 各约 7,500 万；Aquavita Aim 3,800 万；Medi Positano 3,200 万；Presinge 2,925 万作比较（275 万价差包含港口费风险，也含脱硫塔）；近期没有披露价格的 5 年龄 MR 成交，所以用 SIN 评估 5,000 万（10 月 5,200 万） | 表 A（6 行，Presinge 行灰色）；下方小结卡片（红色标题） | SIN S&P Register，2026-09-12，截图存档 | 定价组 B | 0:40 |
+| 8 | 第 2 部分 定价 | Pricing basis II: time-charter rates from last transacted fixtures | 五笔对标期租逐一对应五艘船：PS Imabari 30,000、Challenge Pollux 27,000、Torm Genesis（2011 年船）三年 40,000（高亮）、Intensity 22,000（租家未披露）、XH Hope 23,000；10 月 MR 一年期评估 43,000，基准仍用 30,000，MR 基准偏保守；10 月 Kamsarmax 一年期 19,750、Aframax 三年期 37,500 低于我们的对标 | 表 B（5 行，Torm Genesis 行浅蓝）；两张卡片：对标租金与一流租家、10 月 MR 偏保守 | SIN Fixtures Register（Timecharter）；序列 541552 | 定价组 B | 0:40 |
+| 9 | 第 2 部分 定价 | Pricing basis III: spot freight rates from last transacted voyage fixtures | 煤炭 DBCT 到 Vizag 25.60（换算约 27,400/天）、纽卡斯尔到韩国 23.21；MR 波罗的海到美湾 WS105、新加坡到印尼 120 万包干；对照 Suezmax WS210、WS388；三类价格：16 笔 last done 成交加 1 个 SIN 评估（MR 买价）；现货船不碰原油，MR 现货含部分战争溢价，熊市用 2025 年均值，现货连续 8 周低于 20,000 即锁 | 表 C（6 行，后两行灰色对照）；小结卡片（红色标题） | SIN Fixtures Register（Voyage）；Excel Voyage_TCE 表 | 定价组 B | 0:40 |
 | 10 | 第 3 部分 供需 | Demand: three trades, three different engines | 铝土矿 +29%、Simandou 放量；成品油 2027 年 +6.3%、吨海里 +6.5%；原油货量 -7.3% 但平均运距 +3.3%（吨海里除以吨数） | 三个大数字卡片；下方图 06（几内亚铝土矿月度出口）与图 08（原油平均运距） | 序列 557125、98802/534403、98801/534402；新闻 #224049、#227870、#191021、#219145 | 供需组 | 1:00 |
 | 11 | 第 3 部分 供需 | Supply today: ships arrive, almost none leave | 2021 至 2025 年 Kamsarmax 交付 609 拆 93；MR 交付 251 拆 64；原油 Aframax 交付 71 拆 46，2025 年进 3 出 8；2026 年至今 153 对 6；拆船欠账（新闻 #229922） | 图 12（三板块交付对拆解）；右侧三个大数字卡片（93 vs 609、3 in 8 out、153 vs 6） | 交付序列 30301/540953/29984/39696，拆解 30291/540965/29967/39683，2026-10-10 | 供需组 | 1:00 |
 | 12 | 第 3 部分 供需 | Supply ahead: a delivery wave peaks in 2027 to 2028 | 订单簿按交付年：Kamsarmax 2027 年 171 艘；MR 每年超过 100 艘；原油 Aframax 很少；LR2 62 与 71 艘且可转跑原油 | 图 13（订单簿分年交付）；右侧四张订单簿占比卡片（13.5% / 15.6% / 8.9% / 34.8%，LR2 粉底） | SIN Orderbook Delivery Schedule 与 Fleet Register，2026-10-10 | 供需组 | 1:00 |
@@ -76,7 +76,7 @@
 |---|---|---|
 | Task 1 资金分配 | 3、4 | 五艘二手船 2.45 亿加现金 500 万，油轮 70%、散货 28%、现金 2% |
 | Task 2 船数、船型、尺寸、贸易 | 3 至 6 | 2 艘 MR 5 万吨、1 艘 Aframax 11 万吨、2 艘 Kamsarmax 8.2 万吨；四条贸易 |
-| Task 3 买价、租金、运价取自最近成交 | 7 至 9（全表见 28 至 30） | 三类价格共 17 笔成交逐笔列出 |
+| Task 3 买价、租金、运价取自最近成交 | 7 至 9（全表见 28 至 30） | 三类价格共 16 笔成交加 1 个 SIN 评估逐笔列出 |
 | Task 4(i) 供需、新造、拆解 | 10 至 13（明细见 26、27） | 需求三引擎；交付对拆解；2027 至 2028 交付潮；替换测试 |
 | Task 4(ii) 市场数据与新闻 | 14 至 16（新闻库见 31、背景图见 35） | 三个到顶信号；买在复苏期；9 月以来的变化与运价判断 |
 | Task 5 12 个月扣营运成本前收益 | 17 至 20（模型结构见 32） | 基准 4,970 万（19.9%），熊市 17.9%，牛市 23.7%，期望 20.0% |
