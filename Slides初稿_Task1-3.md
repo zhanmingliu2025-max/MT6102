@@ -1,5 +1,8 @@
 # Slides 内容初稿 · Task 1-3（提案 / 船队与贸易 / Last-done 定价）
 
+> 2026-10-18 说明：本文件是早期初稿，已被 MT6102_Group_Presentation.pptx 和《演讲稿_第1至9页》取代，页码与内容以 pptx 为准。
+
+
 > 用法：每页给出【英文 slide 正文】+【中文讲稿】+【页面素材】+【数据出处脚注】。
 > 英文上 slide，中文是讲的人背的稿（约 20-30 秒/页）。
 > 所有数字为 2026-09-12 SIN 快照；10 月 20-26 日终版刷新后由定价组同步更新此文件。
@@ -67,11 +70,11 @@
 
 **正文（EN）**
 > **Buy Secondhand — Not Charter-in, Not Newbuild**
-> - **Charter-in rejected:** period rates are at cycle highs — chartering in locks a *cost* at the top (1-yr TC Suezmax $140k vs 3-yr $64k in October: the market itself prices today's rates as temporary)
+> - **Charter-in rejected, for both segments:** a charterer keeps only the spread over hire. Kamsarmax hire $22,000 against $23,000 base earnings: +$0.35m a year at best, −$3.2m at 2025 earnings. MR hire $30,000 against $27,000. Little capital used, no asset at the end
 > - **Newbuild rejected:** earliest delivery 2028+, straight into the delivery wave (crude fleet growth 3.8% → **7.7%** by 2028); newbuild prices also at decade highs
 > - **5-yr-old Eco chosen over 10-yr-old:** cost per remaining service year is *lower* (MR: $2.50m/yr vs $2.67m/yr), and Eco spec protects resale value under EU ETS / IMO carbon rules
 
-**讲稿（CN)**：题目允许买或租，我们三个选项都算过。租入等于在山顶锁定成本，否决；订新船要等到 2028 年以后交付，正好撞上交付潮，否决；买二手里面，5 年船龄按"每年使用成本"反而比 10 年船便宜，而且节能型在碳规则下更保值。所以结论是：买 5 年龄 Eco 二手船。
+**讲稿（CN)**：题目允许买或租，我们三个选项都算过。租入两类船都只赚薄差价且风险不对称，否决；订新船从签约到交付要 1.5 到 3 年，窗口内零收入，到手时已过交付潮，否决；买二手里面，5 年船龄按"每年使用成本"反而比 10 年船便宜，而且节能型在碳规则下更保值。所以结论是：买 5 年龄 Eco 二手船。
 
 **素材**：三栏对比卡（Charter-in / Newbuild / 5yo Secondhand ✓）；数据脚注 SIN [48989/49108, 534497, 47130/47134]。
 
